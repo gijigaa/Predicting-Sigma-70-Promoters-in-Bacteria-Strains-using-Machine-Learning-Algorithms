@@ -1,0 +1,2083 @@
+﻿DNA_sequence,Label
+"aaaaaATTATGggccgctccaggcccaTAAATTtttacGctccc					",1
+aaaaaCAAACTAtgacatgcaatattcctggAAACATAaactttAtgcca,0
+aaaaaCCTACGATgccggGtgcga,0
+aaaaaCTTGATGcacgtcaaaaaatgACGCATatttGcgcgc,0
+aaaaaTAACCATgtatttatcttaaaTATCAAAacctttAtaaca,0
+"aaaaaTTAATAaataccctgtggtttaaCATATTaacttcGctctc					",1
+"aaaaaTTGAGAtattccttattacctGAAGCTgtttttTattgc					",1
+"aaaaaTTTTAActgcatttagccaactTAAATTaatgaAaaaat					",1
+aaaacCATACATTttagtGaacca,0
+aaaacCTTGAAAgtaactatcgcaaagtCCCCGGcatttcTgctgc,0
+aaaacGCCAGATTgtcgcGaaaaa,0
+aaaacGCCATGCTttgctcGcagat,0
+aaaagCATACGTTagcagGtgtca,0
+aaaagCTGGTATtgtggcaaaaaacACCCGTtcataAtacgc,0
+aaaagGCGGTACTattttcAtcaga,0
+aaaagGCTACACTtcgccTttgaa,0
+aaaatCAAACAAtactggggtgaacaGCTCAAAattcccGttatt,0
+aaaatCCTGCATTaatcActctg,0
+aaaatCTTGAAAgtttcttccctgagatCCCCGTtgaaTttcat,0
+aaaatTTAACGatttctgcggttaaaGCGGATGAagctcAccttc,0
+"aaaatTTATCTggctgaaacgccgtggttTAACATctcgGcgacc					",1
+aaacaGCCACAAAaaccaGgggaa,0
+"aaacaTTGATTaagtgaatatatcatggaaGAAAAAtataAccgga					",1
+"aaaccATGACCagttcagagtttcgcgagcgTATTGTcgaactGggtgc					",1
+aaaccCTGGAAGaagaaaaggccacCGACATcaaactGactga,0
+aaaccGTTGCATctcggttcgcgtCACCAGgtctgGcagat,0
+"aaaccTTCATAcagaaagatttgaagTAATATtttaAccgct					",1
+"aaaccTTCATAcagaaagatttgaagtaaTATTTTaaccGctaga					",1
+aaacgACTAAAATatggaGgctct,0
+aaacgATGGAAAatgaactcctcaaagaAGCCGTtgaatAtggac,0
+"aaacgCTGCAAaatcgtcgccggtcaGACAGTgagtttTgcagg					",1
+aaacgTACACTCataatttacttttcTGTCGATgcaaaGaaatg,0
+aaacgTGACCACgcccgcagatattacttaAATCAGAgccatAgaggc,0
+aaactGCTACACTccgctCcctca,0
+"aaagaTTAAAAatattttcagtgaataTAAAATtattGctgtt					",1
+aaagcATTACACTatgcGccctg,0
+aaagcGCGACACAatagaGgatta,0
+aaagcTCTAACTTttgttGcatta,0
+aaaggCTGGCGAcatcagggctttaatgCCACAAtcctcTtttct,0
+aaaggGTTTCATattggcccaaccatttCCCCGGcgtgccGtgggt,0
+aaaggTTTGCATggcgatctctttaCGCCAGccgccGacctg,0
+"aaagtATAAATaaacgagcctcgcaatgcggcTAATATtcatttAatgaa					",1
+aaagtTGAACACgattttaaccagcaggtGATCAATcgagaActcgc,0
+aaataATGAAGaataatccctccctgGAAGATAAttgtaAaaaac,0
+aaataGCCATACTatttaAttgca,0
+aaataTCCAGAATcaggtcAggaca,0
+aaataTGCACAAaaataatcataattatTTTCTGAgatgcAttatg,0
+"aaatcATGATTaactatttgatggtatTAGATTagttAtttac					",1
+aaatcCTGGAAGtggtgagcgactgtCCGCAGtcgatcAataat,0
+aaatcCTTTTAAataaactcaggCACCAGacataAaatat,0
+aaatcGATACCTAtacgcAcggta,0
+aaatcGCCAGACTggcagAacaaa,0
+"aaatcTTGCCAattcaatatattgcagGACCATgtagGcctga					",1
+aaatgCTGGCATtaggcactggcacggtCGGCGTaatgGccgct,0
+aaatgGTGGTTAtgctgccagtgctCCGCAAaacagAtgttt,0
+"aaatgTTGTCTacaccacagacggttgttgCAGAATatgcaAggatg					",1
+"aaatgTTGTCTacaccacagacggttgttgcaGAATATgcaagGatgtt					",1
+aaattCCTAAAATcaaacAatact,0
+aaattCGAACATaggcttcgatttattgcgcTATCTCTgtggcAggatt,0
+aaattCTTGAGAttgattccagagCGCCCTacagcGaagtg,0
+aaattCTTGAGAttgattccagagcgCCCTACagcgaAgtgct,0
+aaattTAAACTAccgcctctttatactcggATTCACAgcacctGcgggt,0
+aaattTGAACATaccgggcagaatatcTGGCTAAcaatGtagcg,0
+aaattTGAACATaccgggcagaatatctggcTAACAATgtagcGtccag,0
+"aaattTTAACTgcatttagccaacttaaatTAATGAaaaaAtgtta					",1
+aaattTTTACGCTcccttAacttg,0
+aaattTTTGCAAagctgacacctttCAGCATcgcttTtcgcc,0
+aacaaCATACCTTacacGttctc,0
+aacaaGCTAAAATcctgcAaaaga,0
+aacacCTGTAATcaagaaaaatgACTCATtactttTgcaac,0
+"aacagATCCATacgacctccctttgtgaaaTATCATgctaGcgcgc					",1
+aacagATGAAGattgcagccgtaacGTCTATAAtcagcGcccca,0
+"aacagTTAATTaagactggtgacatcgtcGAATATctggtGaaaca					",1
+aacatAATACCCTaacccGacaac,0
+aacatCTTGTTAtcagggctatttaCGCCCTgattGtcttt,0
+aacatGCTACTCTgaaccGggtat,0
+"aaccaTTAAATttttgaaccacagcatGATAATttccAcggcc					",1
+"aaccaTTAAATttttgaaccacagcaTGaTAATTTccacgGccttg					",1
+"aaccaTTGAATtccttttccgttcacatattGACACTcatcgGgaaaa					",1
+aacccGCTAGCAAtggagAgaata,0
+aaccgGGAACATtttgttgcaggatggaGATCAGAcgttgActttt,0
+aacctTAAAACAaatctgctcgccggaTGTCTGActcaTccggc,0
+"aacgaATCCCAagattagtcaaaattTAAACTaccgCctctt					",1
+"aacgaTTAATAacattttttcattaattTAAGTTggctaAatgca					",1
+"aacgcTTGATAttttgtcttatcgtcTGaTATTTTcttttTcttaa					",1
+aacggCTGGAAAtcattcaatactcaCACTATcgaaaGttccc,0
+aacgtCTGCCGccgcagggctacgctGCCGACGAgtaatAccccc,0
+aacgtGTTGAAAaatagtatgacgCGACATcatagAcaagt,0
+"aactaTTGATCaagatagattttcatgTATCGTaatacAcagtt					",1
+aactgACTACTTTtttattAttgat,0
+aactgCGCAATTcgttgattaattaagaAATCTATagaaaAaagat,0
+"aactgTTGCTTccttgtgaatagcgatgcaaGAACATactgaAtcata					",1
+aacttTGGCACatctatTGCTTtgttAtacaa,0
+"aagaaATGTTAtttgctcttttgcgtcTATAGTcatgAtgtca					",1
+aagacACTAAAATttgccAacctg,0
+"aagacCTCAATgaaaatgataatTGtTATGCTaaagtAgccac					",1
+aagagCTGGCTAtcctccaaaaggccgCGACATacttcGcgaag,0
+aagagGCCACTATccttgGgaaag,0
+aagagGCGAAAATcaaaAttggc,0
+aagcaTCAACAAacggctaagggcatccaTATCAGActcctGagtgg,0
+"aagcaTTACACtatgcgccctgcattcctggcTACTATttcgcAagagc					",1
+aagccCTTGCTTttcagttattagCAACATttaacAtttat,0
+aagccGACACCCTtggcaGttgcg,0
+aagccTGAAATAtgaattttaacttttAGTCATTttataAagagg,0
+aagccTGACCATgactatgccgagctgcaGGACAAAatcgGtgtca,0
+"aagcgTTTTCTgtatccataaatgcaaaagTATTTTgtatGcgtgg					",1
+aagctCTTCAGaattacgcaaaagaGCTGAATAattaTtccca,0
+aaggaGCTAAAAAtgtgGtattt,0
+aaggcTCTGCGCAggattGagttg,0
+"aaggcTTACGCaaaaatggaacacataaaaaTATAATatgtttTatctg					",1
+"aaggcTTGTCAtcgccgcatttgcccggTAACGTgccggGcattg					",1
+aagggGCGATATTgaaccTtcgat,0
+aagtaGCCAAATTgcttcAggcac,0
+aagtaGCCACTCTgtaaGctgac,0
+aagtaTAAAAATcagcataaaccctgattttTGTCAAAaaaaAtgacg,0
+aagtaTCAACATgcgttgaccgatagttaAGTCAAAaccgAcgcca,0
+aagtgCAAACAAtattttttgcgactccaTGTCCATataaTttatc,0
+aagtgTCAACAAgcaacggggcatcgcccATTCAAAcatctAtaagg,0
+aagtgTCTACCATgtccccGaacaa,0
+aagtgTGGCAAaccgtaatcTGCAAggcgtGccgct,0
+"aagttCTGAAAaacgcgtaaacacattTAATAAaaaaaGggcgg					",1
+"aagttCTGAAAaacgcgtaaacacatttaaTAAAAAaaggGcggtc					",1
+aagttTGAAATTtatcagttaattgccgaacTGGCGAAgaaagGcaagg,0
+"aagttTTTAACctgagattgttaaagaTATATTacagAttaat					",1
+aataaGATATGCTtttaaAttgca,0
+"aataaGTGATAgtcttaatactagttttTAGACTagtcAttgga					",1
+"aataaTTCAACcgcaacagcagtattgTATAAAtaaggAtgttc					",1
+aatacGCTGAAAaacttgacgatACCTATtgcgctGgttgt,0
+aatacGTTTAAAacgatcgattgCGCTACgagtcGggtaa,0
+"aatacTTCACAcgttagttatgagcgatttctGATAGTgcctgGtttaa					",1
+aatatCAAACTGggtaaaacaagctATTCAGAattcctGagtca,0
+"aatatTTCACAgtcaaacttgctgcatTAAAAAaacatAaaagc					",1
+"aatatTTGCGAgccgctttcccgataTAAAACaacctcAttgcc					",1
+"aatatTTTTAAgcaaaactaaaaactagcaaTAATCAaatacGatatt					",1
+"aatcaATCAAAacaacatactttatatTATAAAacaccAagtta					",1
+aatcaGATACAAAaaggGccgcc,0
+aatcaTGCCACtggcaatcTGCATcaactCtccgg,0
+aatccTTTTAAAtaaactcaggcaccAGACATaaaatAtactc,0
+"aatcgATACCTatacgcacggtactctcctTATTTTtttcaAtatca					",1
+aatcgCCTACAAAgtccaGcgcga,0
+aatcgGTTGATTttccaagagtcaggcCCGCAAgtgcctGatggt,0
+"aatcgTTGCTTccgcttcaataaccgcattttTAATCTcggtgGcaaaa					",1
+aatctGTGGATAatacgcacatttCGCCGGaagtgGtatcc,0
+aatctTGAACGTgtcgaagcgttaaaacTGGCGATtcgtaAcggtg,0
+aatgaCTCACGcggaaaaactcctgACTGACAAactgTctttg,0
+aatgaTGAAATAgtctatcacttaacttaATTCACAtcaccGcctgc,0
+aatgaTGAAATGatgaaatgatgaaatgaTGACAGAgtgtccAgtggg,0
+"aatgaTTATCTatctttaaccgatacctcTACAGTcataGctgga					",1
+"aatgaTTGCACcatttagtgatgaggtcatGAAAGTcaatgGcctta					",1
+aatgcATGACGactccctttgatgaACCGATATttttGctgct,0
+"aatgcTTTACAtctccttcgcgtttgTATATTttctttAtcact					",1
+aatggCAAAATAtacacaacactctttaTAGCAAAtataaGtggac,0
+aatggCAGAAGagcttaaggatgtgGCAGATAAggtatAcaccc,0
+"aatgtTTTCAAttaatagtattggttgcgtaaCAAAGTgcggTcctgc					",1
+"aattaATGAAAaaatgttattaatcgttgagcTAAAGTcattaGagatg					",1
+aattaTAAAAATagcaaccagacttaataAGTCAAAccaaAcgcaa,0
+"aattaTTTAAGcacttgataaatttggaaaTATTAAttttcGgagaa					",1
+"aattaTTTCAAgattctctgctgcgtttcaTAACCTggctgAaatct					",1
+aattcGCCACCCTgtaagAggaga,0
+aattcGCTAAAAAtttcctCgccga,0
+"aattgATGTCTcttctaaatcgcacccgttcTATACAgggaaGctgag					",1
+"aattgCTGCAActataaaaattgcgaatataTACATTaatttTttatt					",1
+aattgTGACATTgacctgaattacgcTTTCATAaaaacAtatta,0
+"aattgTTCAGAtttctctcttttctgaatcaaTATTATtgactAtaagc					",1
+"aattgTTTATAtcatcacgcttcagcTAATGTatatttAtgcaa					",1
+"aattgTTTATAtcatcacgcttcagctaatgTATATTtatgcAatcag					",1
+aatttGCCAACCTggctAcataa,0
+aatttTCAACCTcaattcttgcgaaaaaTGGCAAAaataAcggta,0
+"aatttTTCACTtctaaaagcagtatgatgtcaTAAAGTtaagtGagaat					",1
+"aatttTTTAAAtattatttttccatgaaTAAAATtggaGtaagt					",1
+aatttTTTTAAAtgggggtttatCGGCATtatggGcgtta,0
+"acaacCTGAAGagcgttttgcatggtTAAGGTcaaagAaagat					",1
+acaacGTTGAAGgtgcgttccaggcCTCCAAcaaaaAtatcg,0
+acaatGTTGAAAatgccagccaaCTGCATgaagtAtggca,0
+acaatTCCACCTTgagtaAtgatg,0
+acacaTCTACACAacccGtggcg,0
+acaccCATACGCTcgccAccgaa,0
+acaccGCTATCCAtctaaAtttaa,0
+acaccGTTTAAAtgcaataatcagCCACGTttctcGttaat,0
+"acaccTTATCAggcagttgccttagcgcagaaTAAATTgataAcaaat					",1
+"acaccTTTATGttgttcagtagttaTGgTATTAAtatgcAggatc					",1
+"acaccTTTATGttgttcagtagttatggtatTAATATgcaggAtcttc					",1
+acacgTTTAAGctgcatgaaattctCCAGATAAtgctgGttctg,0
+acactCCGGCATTggtcGcgaga,0
+acactGCAACATTaaagcAtgacc,0
+"acactTTGTGAtctctctcgcacccgatTATTTTtggtaGaaata					",1
+"acagaTTAATAatattcttaaaatgTGgTAATTTattaaAtctgt					",1
+"acagaTTTAATtatttaagcactTGaTAAATTtggaaAtatta					",1
+"acagcATGATAatttccacggccttgtcgtTAAATTtagcgGgcatg					",1
+"acaggATGAATgtaaataaaccatcaaTAAGCAaaaatAagtgg					",1
+acaggCTGAAGcgcgtgaacgttccGCCGAAGCagaaGcccgc,0
+"acagtATGCCCgcggtgatccgcgcggtgacgTACATTattcccGctcgt					",1
+acagtGAAAATTacatgggcgaacaaaaaatAATCACAagctgActtat,0
+acagtTAAAATAatttatcgcgttattTGTCTGAttttGtttga,0
+acagtTAACCTTgatatgcgtagtctgTGGCTAAatttcGagatt,0
+acataGAAAATTgatatcaatataatgaaaaTATCAAAtatttGcatat,0
+"acataTTGACActcatcgggaaaaaaaacaTAAATTtaagCccaat					",1
+acatcCCTAAAATaaccActcag,0
+acatcCCTACCCTgcttcAggtat,0
+"acatcCTGGCTcataaaggaaattatcaataaGATAATctgcaGattat					",1
+acatcTTTGAGAtaacgcactttcttCACCAGtacgttGcacgc,0
+acatgGCTAAACTttaaccAcaact,0
+acattCCTAAATTcgctaAaaatt,0
+acattTATAAATTaacaTctggc,0
+"acattTTCGTAattgttaataaatttaactTAAGGTtgccAttttg					",1
+accaaCGAACCTtaattcaaataagGATCTAAtggctAtaaca,0
+"accaaCTGACActgaaaaatcctaccgcgTATTATctgaccAttgcc					",1
+"accaaTTGCACttgtgaacttatttttactTAATTTtgaattAagtaa					",1
+"accacTTGTGAtgatatggttgtagtggatgTAAAAAcatttAgcaat					",1
+accagGATATACTtgtgcAgaacc,0
+accagGCGGCAATttgcGcttta,0
+accatTAAACACgctatccctcgcaggtTATCAATccagtAaattt,0
+accatTTTGAGAatcaacttaatCGCCAGgagagAgaacc,0
+acccaCCCACATTattggGttgat,0
+accccCCTATATTttattcAtcata,0
+"accctTTCACTcaatcaggttttatttctcTATAGTctgcAcatgt					",1
+"accctTTCACTcaatcaggttttatttctctaTAGTCTgcacAtgtaa					",1
+accgaGCCATCTTttcccCctcgc,0
+"accgcTTCTCAacccggtacgcaccaGAAAATcattgAtatgg					",1
+accggCGAAAATcagggctgccagaacaacAGGCAGAcaacGcgcgg,0
+accggCGAAATGctcacggttagaatTGTCTCAtgaacGgtacg,0
+accggGCCAGCATcaccgGcaagt,0
+accgtCTGGAAAatggcaaagttgtgggCGACGTcgtgTttgaa,0
+"accgtTTCCATtgcagcttaacaacaaatattTAGGTTtcgtccTggttt					",1
+"accgtTTGTCAcgcataccatgagcctggatGAAATTaatgAcgcct					",1
+"acctaTTACTTcaacaaaaatatgtcTACTTTcgttgAttaca					",1
+acctgCTGCAGcaccggaagctccgGCTGCTGAacaggGcgagt,0
+acctgGCTACATAatgccGcgcat,0
+acctgGTAAAGaactgcgcgatcgcGCCAATATttacgGttaag,0
+accttCAAACAAcaagccgacgtcattaTCTCTAAccgaAtggca,0
+accttGTGTAAAccagtcgacgctaaaACCCATtttactAaggcc,0
+acgaaGATAAACTctgtttCgcaag,0
+"acgaaTTCATCaagcagaacgcgcgtTAATTTctgccCtctgg					",1
+"acgaaTTGATAtttctctgaacgctgctcggTAAACAataaaGaggtg					",1
+acgacCCTAGATTtcagAccatt,0
+"acgacCTGTAAccaaataattacgtttggcTAATATagggcAactcc					",1
+acgacGCTATACAgcaaAcagaa,0
+acgacTAAACGCgacgggtattaaaagttATTCAAAaatgAttatc,0
+acgatGCTAGTATttggcAatcaa,0
+acgatGTTGTTTctgtaaggtgatattCGTCATaacccTctcct,0
+"acgatTTAAACcacagataaagtgtaagaacgTAAGGTaagtaAaaatt					",1
+"acgatTTGCCAgacgcgttggggaaatGAATCTtctttTtccat					",1
+acgcaCTGGATAagcctgtctcactCGCCCTtaaaTctggc,0
+acgccGATAAGCTtgaaaAttgtc,0
+acgccTCTAAAATgaaaGccaat,0
+acgcgCTTTATTacctcatacgccAGCCATcgccGctggc,0
+acgcgGATAGGATtgtgaGgcatg,0
+acgctGGAACAActggcaaatcgcgaagatGGTCCTTttgtgGtgcgt,0
+acgctTGGCATgcatcCGCATcaggcAcagcg,0
+acggaCTGGAAGctgtggccgcgtaaCGCCATtacccAtcgct,0
+acggaGCTACAAAaacctAcgatg,0
+acgggTGAAAAAaatcaatatagcacttcgaTATCCGAtaaaGtcggt,0
+acggtCTGGTGAttgtcgaaatgctgcCGCCAAttgacGtcagt,0
+acgtcGGCACATtgtcggcgtttttTTTCGGAccttGtgagt,0
+acgtcTGAACTGtaagtgatcgtcaGGGCTAAtctgaAaagcc,0
+acgtcTGAACTGtaagtgatcgtcagggctAATCTGAaaagCccccg,0
+"acgtgTTGAAAaatagtatgacgcgaCATCATagacaAgtctg					",1
+"acgtgTTGAAAaatagtatgacgcgacatcaTAGACAagtctGcgtcc					",1
+acgttGGCACTCatgctttatcaacttgccTGGCAGAaataaGgagtc,0
+actagCACACCTgattcctctctaaatacccTATCCGAaccttCtcttt,0
+actatACCACACTcatttcTgcaat,0
+actatCTGGCTTaaagctgactgCGCCATgctcaGgcggg,0
+actatCTTGTTAaatgctcggaaacAGACATtaaagGgagta,0
+"actatTTACCAggtaaatttatgggattgTAGCGTaaaaaAagaca					",1
+"actatTTGATGgtattagattagttatttacTAAGATtgttgGtgttt					",1
+"actcaATAACGattactggtgtcgggcatTATCATttagCcccac					",1
+actcaCGCACCCttttcaggggcaaTGTCGAAattttAtcatt,0
+actcaTGGCACttctcagcaaCGCTAcagctGgttta,0
+"actcaTTGATTttcaaatcgagcggttccaGATATTcatagAgaaga					",1
+"actcaTTGATTttcaaatcgagcggttccagaTATTCAtagagAagaat					",1
+actccGTTGCGAttggttcacatggacaCACCATcaccGttaac,0
+"actcgTTCATCtgacagccccaggtttTAATATggagTttttt					",1
+"actctTTTTTTtggaccgccatcaggcgTATGCTtgcttcGttttt					",1
+actgaCAAACTGtctttggtttatcGGTCACAgttaAcaaaa,0
+"actgaCTACTTttttattattgatgagtaTAAACTtgacGctttc					",1
+actgaCTTACATTaaccaAcaagg,0
+actgcATGAAGtatggcaaaaagggGCTGATGAaaatGccagc,0
+actgcGACACAATtccaCcttga,0
+actgcGTTACCCTgtaccAcaacg,0
+actggTGACCATgttccatctgatgGATCTTAgtcaGcttta,0
+"actggTTAAGAcggttgagcaatcgcaTATAAAcccggAacaat					",1
+"actgtATGAAGaactgggcaaaatcgaTATTGTccgcAtggtt					",1
+acttcGATACACAtcacaAttaag,0
+acttcTGAACCCggtttcgaccgggTTTCTTAtttcAccata,0
+"acttcTTAAACaattggtaacgtttacacagGAAAGTcatcGcgacc					",1
+acttgTCTATGATgtcgcGtcata,0
+"acttgTTTAATgtgtttgtatgattcagTATGTTcttgcAtcgct					",1
+actttGGCACATctattgctttgttatacaAGGCAAAccctgAaacag,0
+"actttTTAACAgccatcacaggctggggcTACCTTcgtctcAaattt					",1
+agaaaGATAAAATcacggAccggg,0
+agaaaGATAGGTTctgatAaaact,0
+agaaaGTGGAAAaagaaggggcggatcAGCCGTcaattcTgccgt,0
+agaaaGTGGCAAagtcagacatattcatCCGCATtagtgAaaatc,0
+agaaaTAAACCTaccattgaaattaaaactTATCAGAtttaGcatgt,0
+agaacGCCATATTtattgAtgatt,0
+agaacGCTATGTAtgcgtcAccata,0
+agaagCTGGCATcaatttgtgatcaaCCCCACacattAtccgt,0
+agaagCTGGCATcaatttgtgatcaaccCCACACattaTccgtc,0
+agaagTCGACACTatcgGtggtc,0
+"agaagTTATCAagtacctcgtagcgtaTATACTtcttaAacaat					",1
+agaatTAACCTTgagaaaaatcaacaaacTGTCAGTaatgAtttgt,0
+"agaatTTTATActttttcgccatgaagacaTACCCTatgtgAtcttt					",1
+"agaatTTTCCGgtaaaagttttgccgTAATATcattGttggc					",1
+"agaatTTTCCGgtaaaagttttgccgtaaTATCATtgttgGcatcg					",1
+"agacaTTCTTAgaggataaaaaggaatttacTACTATcagtGtctta					",1
+agaccTGAACTTctggaaaacctggctcTGACTGAagagcAagcaa,0
+agagcGATATAATagcgGcgggt,0
+"agagcTTTATTatctgcgacgtttattttTATTTAagagaGatcgc					",1
+"agagtATAAAAgttttgtgcatttgaaacatTACGCTttgcaAaggat					",1
+"agagtTTGATGttccgctgctgccctttttTATGGAagagGtctac					",1
+agataAAAAAGagtcggcataataatGCTTACAAtttctcCggtgc,0
+"agataTTGAACgtaacacccactctctgTACTAAgtaagGagcta					",1
+agataTTTACCCTgtcgcGttatg,0
+agatgGCTAAATTccagTccata,0
+agatgTCTAAATAaaacaAtaagg,0
+"agatgTTAATGaatttaacccataccagTACAATggctAtggtt					",1
+"agattATGGCGtaagaaaattgcaatacgatTATTGTtgtatAttcaa					",1
+agattGCGAAAATccccGcatct,0
+agattTATACATAatgcGctgca,0
+agcaaTAAAAGtcacggcctaatatgGCTAACAAacaatcAattgt,0
+agcaaTCCACATAacaaaAcgcgt,0
+agcacCCTGAAAtcagcgtcactttcCGACATcgaaAtgcgt,0
+agcacCTGTAAAgtggcggggatcacTCCCATaagcGctaac,0
+agcacGCCATGCTtgagaAggcct,0
+agcagCATACGCTgcggcAaactt,0
+agcagCCTAAGTTatgcgAaaatg,0
+agcagCTTAAGtatacaatttattcGGCGAAACattattGattct,0
+agcagGGCAATAgctgcggtggtcagatTTTCAAAgaaggGgacga,0
+agcagGTTGAGAgtttcatcataagCTCCTTacgcgAagata,0
+agcatCCTAAGTTccgtGcggct,0
+agcatGATAAATTatttttTattac,0
+agccaGAAAATAtaatgcttcatcctggaaAGTCACAtcgatGcgaat,0
+"agcccTTGCTTttcagttattagcaacattTAACATttataAattaa					",1
+agccgCGACCTTtgccgcaagcctcGGTCTGAaagttAacgcc,0
+agcctATGAAGcgcgcctggcacgctGCCGCCATgcgctGgaaaa,0
+agcgaGATATATTaaaaaAagcaa,0
+agcgaTGGCGCtgacccgTGCTTacactAcgctt,0
+"agcgcATGACGccccgtggcaaaagtgagggTAATGTcgcgTtcacg					",1
+agcgcCTGCCGataagttgtgataaGACAATAAttcacGcgtta,0
+agcgcGACACAATagaggAttacc,0
+agcgcGCCATGCTgtttgAactgg,0
+agcgcGTTTTATggcggaccgtgcCACCACagacgAccaga,0
+agcgcGTTTTATggcggaccgtgccaCCACAGacgaccAgagta,0
+agcggCTACCGttatcacccgggcgaGCCAAGAAccttctTgctca,0
+agcggTGAAAGTggctggtctgcgccGATCAAAaccaAtgtta,0
+agcggTGAACACaatacacttgcgcTGTCTCTtcaggAtgaat,0
+"agcggTTAAAAtattacttcaaatctttctgTATGAAggtttGagcac					",1
+"agcggTTGAGAttgttagcgaagttctGAAAAAcgcgtAaacac					",1
+agcgtGAAACAAatcactattaaagaaagtAATCTATatttctGcggca,0
+agctcATTACACTccattAacacg,0
+agctcGCCACCATtgagCttgaa,0
+agctgGCTATCCTccaaaAggccg,0
+agctgGGAACTAacacttttggactTATCAGTacccaAagtga,0
+agcttTGTCACaattatcTGCAAagtcAtacgc,0
+"aggaaTTTACTactatcagtgtcttaaaTAAAGTaatcgGttata					",1
+"aggcaTTGCCGtttgatttacgcgagccTAATCAattaAccatt					",1
+aggccACTATCCTtgggaAaggat,0
+aggccGCGACATActtcGcgaag,0
+aggcgCAAACATtattgcaaaaagggggcATTCGAAcccccGccgat,0
+"agggaATGCAAcctaaatcgattgccagaattGAAAATtgtaGtgtga					",1
+"agggaTTTTTTgcccattgcttgccgaTATTGTtctcAttgtc					",1
+"agggcTTGGACtggcaatttgtcgggcGATAGTggatGtacac					",1
+agggtGTTTATAttgatgatattatgtCGCCCTataactAtacat,0
+"agggtTTTCTTttgggtatgtttatcTGcGACACTcgcaGcaccg					",1
+"aggtaATGCCAggctgtaatcaggcaaggaTATAATtccgcAggaag					",1
+aggtaGGCACTAaatttggtcgttggctgGATCTGAcatttAtgcag,0
+aggtcGCTACGTAtacttCtcgat,0
+aggtgGCCAAATTcagtaAaccac,0
+"aggtgTTTCCGttcttcttcgtcgtaactTAATGTatttAtttaa					",1
+aggttGAAACACtgtatgaagaactGGGCAAAatcgAtattg,0
+"aggttTTGCACcggagctgcagggtgtctaTATCGAagaacAtgatg					",1
+agtaaTTTGTATttcacaacagtCACCAGagagtAgagat,0
+agtacGTTGAATacatcaccaatatCCGTATgcagGcagtc,0
+agtagGGCACTTttttaattccatcacggaTGTCGTAgttcaGaccat,0
+"agtatATGAATaaatcccggcagcggaTAGCGTcaagCctggc					",1
+agtatTCTAACATctactcCgcaac,0
+"agtatTTGGCAatcaagacgtttagatgtcTAAATAaaacaAtaagg					",1
+agtcaTGCCCTAataaaattagggattggcaTATCCAAtaacccAgacaa,0
+"agtccTTGTTGcgaggtgtcgccgctGATGCTggcattAactac					",1
+agtcgCTTGCTTcagcgcatattgcCGCTACgattaAgcgaa,0
+agtgaCTGGTTTgaacgtgcaagcCCACGTattaTcctcg,0
+"agtgaCTGGTTtgaacgtgcaagcccacgTATTATcctcGctgca					",1
+agtgcTGACCTActgatccttacctggttttTAGCACAgatttAattat,0
+"agtgcTTTTCTgtgcttagcggttagaaTAGTCTcatgActata					",1
+"agtggATGTAAaaacatttagcaatatgttTACAATataattAcaaca					",1
+"agtggCTGAATcgttaaggatggtctagaGATTGTttcccTccgta					",1
+"agtggTTGACGgcatggacgtggtagaCAAAATcaaagGtgttg					",1
+"agtgtTTTAAGaaggagcaattctatcGATTTTgattttGggaaa					",1
+"agttaTTAGCAacatttaacatttataaatTAACATctggctGcgcca					",1
+"agttaTTGCATttgacgtttggatgaaaGATTATcatttGtcata					",1
+"agttaTTGCATttgacgtttggatgaaagatTATCATttgtcAtacaa					",1
+agttcTTTACATTtgccttGtttta,0
+"agtttTTAGATagtatcaatgtgctttgtgtaTATTGTggcaaAtaatt					",1
+ataaaCAAAAGcgaccgacaaaagcaTCGGATTAcggcaGgagac,0
+ataaaCCCATACTcacaaGagagc,0
+ataaaTAAAAATctgttttcgccacatgcttATTCAAAaaatgAaataa,0
+"ataaaTTTAAGcccaatcgaaaataatTAAACTtaatctCgttta					",1
+"ataaaTTTATAttgattaaatgaatgTATATTtcaaAttgat					",1
+ataacATTGCATgtaaagcatatacaCCTCATtattttGtcatt,0
+ataacGGCACAAagggcggaataattcacTATCATTcagggGattat,0
+ataacTATACATAccaaAcatac,0
+ataacTGGCACgtaaggttTGCAAccactAaccca,0
+"ataacTTGCCAgagcggcttccgggcgagTAACGTgctgttAacaaa					",1
+"ataacTTGTCAcattgcaaaagtagcCAAATTgcttcAggcac					",1
+"ataagTTTATGtgaaaaatatataaaTACATTagctgGtcttg					",1
+atacaGAAACTActtagtgttcaggagagagACTCAAAagaagGggata,0
+atacaGCGAGATTgcgcAcaaac,0
+"atacaTTAGCTggtcttgtgtgtcatttTATTTTtttttGttgct					",1
+ataccTCTACAGTcataGctgga,0
+atacgTTGAAGactctgccgcagagACCGACATgaacGtagtg,0
+atacgTTTACGCTgcgtcGatgca,0
+atactGCGACACAattccAccttg,0
+atagaTGAAATCgtgctttttgctgtttTTTCGAAcataTcctaa,0
+"atagcCTAATAatccagacgattacccgTAATATgtttaAtcagg					",1
+atagcGTTGAAGaaaaggatttgataatCCGCAAaatttGcacaa,0
+atagtGGCAATTttttgccagactgaagaGGTCATAccagttAtgacc,0
+atataAATACATTagctgGtcttg,0
+atatcTGGCAActtattaaaatTGCATgaacttGtagga,0
+atatcTTTACATTtagccAaacta,0
+atatgACTACACTttgtgGgaaaa,0
+atatgACTACCTTgaccGtcagg,0
+"atatgCTGATCggctggaacatgctgtaaaTATTCTcgtcAtactt					",1
+atatgCTTTAAGtttacaggatttttACCCCTaaggGctgat,0
+atatgGCCACGCTgaaaAttatc,0
+atatgGCTATAATcgccGccagt,0
+atatgGTTACATTaaggGcaaag,0
+atatgTCTACTTTcgttgAttaca,0
+"atatgTTAATTttataataatggtttatTAAGTTtgttcAgaaac					",1
+"atatgTTTAATcagggctatacttagCACACTtccactGtgtgt					",1
+atatgTTTACAATataattAcaaca,0
+atattCGCACTGgcaaaaaaacgtgcttgaaTATCTGTtgaaAccctt,0
+atattGCGACCTTcgcaCttaat,0
+atattGGAACTTtattccccataataAAACAGAgcaaaActtaa,0
+atattGGAACTTtattccccataataaaacaGAGCAAAacttaAatttt,0
+atattTTACAGttcagtcctcttttGCTTATTAcaacctTaagta,0
+"atattTTACCAtcaacccgaggcctcctaTATGCTgaacAcatgt					",1
+atcaaCATACCTTtaagGcgatt,0
+atcaaGAAAATTgaagcggcgctggcAGACAAAgaagcAgaact,0
+atcaaGATAGATTttcatGtatcg,0
+"atcacTTAAATaagtgatagtcttaatacTAGTTTttagActagt					",1
+"atcacTTCAAAgagtgagcaacagtcagTATCATcatgtGagtta					",1
+"atcatTTGTCAtacaaatgaggggTGgTATGTTgctaGccaat					",1
+atccaTCTAAATTtaaatcActttt,0
+"atcccATCACTctggataagctgctcgaTAAGCTgccggAtgtgg					",1
+atcccGACAGACTtaattTttatt,0
+"atcgcATGACAtatcacgcatcctgatggttTAATGAcaaatAaattc					",1
+atcgcCTGGCAAaaataaaatcaCCCTATagatGcacaa,0
+atcgcGCGACCTTagctcAattcg,0
+atcgcTAAACTAtgcggacttggaaaTTTCCGTcagttAgggta,0
+atcgcTGAAATAatttcctctccggTGGCTAAcgctGccgga,0
+atcgtTGCACTCctcagttggtgtttttttAAGCAAAgcataAgcacg,0
+atctaAATACAATgtataAaacaa,0
+atctcCATACCCTaaccaAttgca,0
+atctcGTTGAGActctgagtgacagCGCCCTtctttcCacgca,0
+"atctgATGGATcttagtcagctttacacttTATTGTtttgTctgtg					",1
+atctgCTTTATActtgaggccgaCGCCCTggcgGtaaag,0
+atctgGCGACGCTggttctCgctgg,0
+atctgGCTACGTAgctcaGttggt,0
+atctgGCTGCGTTtatcAttccc,0
+atgaaCGAACGTtaccgttgtggttGCTCAATcagcttGggcga,0
+atgaaCGAACTCgaactgaaataatcGTTCTGTtggtaAagatg,0
+atgaaTGGCATtttcaTGTATtaaaCccttt,0
+"atgaaTTGAGAatagcaacgataatctGATAAAagaaCccgct					",1
+"atgaaTTTAACccataccagtacaatggcTATGGTttttAcattt					",1
+atgacATTGCAAaatgcttaatgtgcatAGCTATgattctTggtcg,0
+atgacGACACTTatttatttgcaaattccTGTCCCTgaaccGattcc,0
+atgagGCTAAAAAaccggAtgcag,0
+atgagTAGACACTaaacaAaaatc,0
+atgagTATAAACTtgacGctttc,0
+atgatCTGACGgactggaagctgtgGCCGCGTAacgccAttacc,0
+atgatGAACCCTgttctatggctccagaTGACAAAcatgAtctca,0
+"atgatTTAACTaatgtttagtattaattTAACTTttgtGtaact					",1
+"atgatTTCGAAatcaccgtgccgcaaattGACACTctggtAgaaat					",1
+atgcaGCAACTCtgctaactcattgatTTTCAAAtcgaGcggtt,0
+"atgccCTGAAAgcggtttttagccagtTAATGAcagatGcgacg					",1
+atgccGGAAAATgtcgaggagatcgtggcgcAGGCAAAaggcGcacac,0
+atgccGTAAAGatgccgaagtgatcGACGAAATcccgAtggcg,0
+"atgccTTCATActtgataattcatgcttCATTATtactccGgaaaa					",1
+atgcgGCAACTAtcaccctgattaccctGGTCGGTtattccGcgatg,0
+atgcgGCTAATATtcatttAatgaa,0
+"atgcgTTGAATggatattatccatatagtGAATTTgttgAtgatg					",1
+"atgcgTTGATTccattaaaaatcaacatatTACAAAatatcAtcaac					",1
+"atgcgTTGATTccattaaaaatcaacatattaCAAAATatcatcAactat					",1
+atgctGAAACCAgtatccctgccctgctaaaTGGCGAAcactctGtcctt,0
+atgctGATAGCATcgacAttttg,0
+atgctGCCAACTTactgAtttag,0
+"atgctTTCGCTgcttttaccctctaccatTAGGCTaattGcgacg					",1
+"atgctTTGCCCttaatgtaaccatatcgcaaTAAGTTatgttTttaaa					",1
+"atgctTTGCTCgcagatggttggcaaccgacGACAGTcctgctAaaacg					",1
+atggaTGCAATAaatcaattttattTCTCAAActggaAgaagc,0
+atggcGGCACAAagcgatctggtggaagtTATCTATaccctGcgtca,0
+atggcGTGGAAGaaaggggagatgaagcCGGCATtacgcGatttc,0
+atggcTGAACACtggatggaaatcgcgctGGTCGATtactGtttca,0
+atgggCGAACAAaaaataatcacaagcTGACTTAtacttGaactg,0
+atgggTAAAATAcacgatgctaacggtaactGGTCTGTaccaCttatg,0
+"atgggTTGCAAttagccggggcagcagtGATAATgcgcctGcgcgt					",1
+atgtaTTTACACTtagagGatgcg,0
+atgtcCACAAGtcttcgctgcgaacaTCCGATTAcgctActggc,0
+atgtcCATACGTTtagaaGgttat,0
+"atgtcTTCGTAaatattggtatggtaagcggTATTCTgccgGttgta					",1
+"atgtcTTTCATggaggttaacgacctgTAACCAaataAttacg					",1
+atgtgATTACACTagtaaAatata,0
+atgtgCTGGCATcgccgctgcatgaactCACCAAacggctGattgc,0
+atgtgGCGAAAATtgtggAggttg,0
+atgttGCTAGCCAattaaAaaaga,0
+atgttGCTGCTCTcactgGcaatc,0
+atgttTCTACCTTatgaTtcgtt,0
+"atgttTTCAATtaatagtattggttgcgTAACAAagtgcGgtcct					",1
+"atgttTTGTGAatgtgttggttgacattcaTATGAAaaaaAtcata					",1
+"attaaCTGAAAtatatatgttaattttaTAATAAtggtttAttaag					",1
+"attaaCTGACTacttttttattattgatgagTATAAActtgAcgctt					",1
+"attaaTTGACAaactaaatcacatctaaaTACAATgtataAaacaa					",1
+"attaaTTTAAAcaattagttgagataTATCGTtggcGtcaca					",1
+attacCGAAAGTtgctctataaatacaaTATCCATcacgTcctgc,0
+attacCTGGTTActgattcaggttttctCCCCGCaaaatAttccc,0
+attacGCCACAAAaatgcGaggcg,0
+attacGTTGATTcacgaaaaaccCGGCAGtaaatAatgta,0
+attagGTTGTTAtatcgggcagcgttcaCGCCTTggcgtAcaagt,0
+attatCTCACGcagtattcttaagggAACGATAAggaggAaccat,0
+attatCTGGATAtcctggcgaagCCGCGTaagtaAcatat,0
+attatTGAACAGattcattcatagaatgaatTGTCAGTtttgAtacgc,0
+"attatTTAACTattcactattacttccgTATATAtcagGtgata					",1
+attatTTTAAGagataaaaccgtctGCGGAATAtttcccGcagac,0
+"attatTTTAAGagataaaaccgtctgcgGAATATttcccGcagac					",1
+attcaTCCAGATTattcctAatcac,0
+attcaTGAAATCtataaattaaagattTGTCACTtattgGattta,0
+"attcaTTGGCGattaggaaactatctTGtTATACAaaacaAtacag					",1
+attccCGCACTTtatcctccagatggAATCGATgctgAccacc,0
+attccGTTACAATggcctCctgat,0
+attccTGAACTAaggcatttcattccGTTCTGAtggcAtttca,0
+attcgTGAACGCaaaagtattcccaccagcTGGCTGAagatcAcctta,0
+attctCTTTAAAaaattatgggccgCTCCAGgcccAtaaat,0
+attctGCTAAATTatcgtGggcca,0
+attctGTTGAAAttgacgtcaaacagatCCGCAAagtaaAtccgt,0
+attgaGCCACGTTggacttCgcctc,0
+"attgaTTGATGcagcgcgtaacgaagccgacGAAAAActgtctGccgag					",1
+attgcCGAACAAtgtggtctttagtttcataAGTCGTTccctcAggaag,0
+"attggTTGCGTaacaaagtgcggtcctgcTGgCATTCTggaggGaaata					",1
+attgtCGAAATGctgccgccaattgacgtcAGTCAGTatggcAaagat,0
+attgtCGAACTGggtgcgccggaggtgagtAGTCTTTggcaccAacaac,0
+attgtTGGCGCtaattatttcaTGCTAcccgGcacat,0
+atttaGCCAAACTaaatGttacc,0
+atttaGCCAACTTaaattAatgaa,0
+atttaGGCACAAtgcgccgctgtcaaaaaaTGACTAAaaaccGacgtt,0
+atttaTAACCCTatgaaaatgacgtcTATCTATaccccCctata,0
+atttaTATACATTcaataAaaaag,0
+"atttaTTGATGgtgaatattaatattttttcTAAGGAtaactAaaaga					",1
+"atttaTTGCCGgaaccggtactgactTACATTaaccaAcaagg					",1
+"atttaTTGCCGgaaccggtactgacttacatTAACCAacaagGcttgt					",1
+atttcCTTTATTgctttagtcgcaCCGCACattgCccgac,0
+atttcGTTGTTTattattggctcaatcCGACAAatccgAttgag,0
+atttcTGAACATtcaaatcaactcccaccaAAGCCAAcaagAtggga,0
+"atttcTTGAACgacaaaaacgccgctcagtaGATCCTtgcggAtcggc					",1
+atttgCGAACGTgatgcatgtccgcGATCGCAcaaaAtagcc,0
+"atttgTTGATGatgaattcatctgTGcTAAAAAtgttaGtttaa					",1
+"atttgTTGCAGccctgtggcacaatggtcaaCATAATaccctAacccg					",1
+attttCTGTAAAaccatgacgtaatcACCTATctttGctcgc,0
+attttTCTAAACAtcagtGaaata,0
+caaaaATTGATTgccgcagcgccgaCCGCAGtcgcGccgga,0
+"caaaaCTAAAAactagcaataatcaaaTACGATattctGgcgta					",1
+"caaaaCTAAAAactagcaataatcaaatacgaTATTCTggcgtAgctat					",1
+caaaaTAAACCAgcgtataacgttcaAATCGAAcataaGattcg,0
+"caaaaTTGCTGcttgattaaacaaatTATACCtgattActgaa					",1
+caaatGCTAAAATaagcAcaatt,0
+"caaatTTAGATgttggataggtattaTATAATggcattGtgtac					",1
+"caaatTTGGCAgcggcaaagcggtagaaGATATTgtgaCcttgt					",1
+"caaatTTGGCAgcggcaaagcggtagaagaTATTGTgaccttGtttac					",1
+caacaGAAAATAaatggtttttgggcaatAATCAGTctgtgGtgtgc,0
+caacaGCGACAATccatgAgtaat,0
+caacaGCTATAAAtaaagAttaaa,0
+caacaTTAAAGcctcatttcaatcatCATGATAAatataAaatta,0
+caaccCTCAAGgatgactaatcattGAGGAAATagaatAaatgt,0
+"caaccTTAAGTtaaatttattaacaattacGAAAATgttgTctaca					",1
+"caaccTTTCCTtttcttcttaccgtTGaGAAAAAggagtcGccatg					",1
+caacgGAAAATAttgttctgaatacgcttcaGAACAAAacagGtgcgg,0
+caacgGGCAATAaatagccaaatctttcttTATCAAAacgtcGgcaca,0
+caacgTTGAAGgtgcgttccaggccTCCAACAAaaatAtcgcc,0
+caacgTTTGCAAaccgaagcccaattacAGTCATttattActacc,0
+caactGTTGCAGcaaatattcatcCGCCGCttcccAcgcct,0
+caactTGCACCAacattcgattaaccccAGACTAAcgcctCctgac,0
+"caactTTGGCAcatctattgcttTGtTATACAaggcaAaccct					",1
+caagaGCCAGATTaagtgAagtta,0
+"caagcCTGACAgaaaatatgctgtaaggctcaTATCAAaaaccGccatt					",1
+caagcGCCAGCTTgctcGcacct,0
+caaggGAAACCTgtcgatctgagtcgtttTATCAGAactaAccagg,0
+caataGCTATATAatataGcctgt,0
+caataTGCACTAtcaattttttaaaTAACAAAttattAaaacc,0
+"caataTTTTTTgcgactccatgtccaTATAATttatcCttaaa					",1
+caatcGTGGCATggtggcgctagcCCGCAAgctcgGgttta,0
+caatcGTTGCTTccgcttcaataaCCGCATttttaAtctcg,0
+caattTTTTAAAtaacaaattattaaaaCCACATctgtAtaagg,0
+cacaaCCGACAATggaaAcgcag,0
+cacacGAAACCTttaaaagcatggtcgaTGGCTATcaccgGcacta,0
+cacacGTTTAAGctgcatgaaattCTCCAGataatGctggt,0
+cacagGCTATATTatataGctatt,0
+caccaTTAAAGgcttcgagattgctGCCAGTAAcgccGcactt,0
+caccgCAGAAGgtaaggcgcaaaaccGCCGTGTAgaaattAcctta,0
+caccgTGAAACAgctgcgtaaaaacgtacTGGCTAAatgttAtggcg,0
+"caccgTTTCGTcaaaaaatcccaacatggcTAAACTttaaccAcaact					",1
+cacctCTTGCAGtcatcttttcttcgCTCTATcctctGccgct,0
+cacgcGGAAAAActcctgactgacaaacTGTCTTTggtttAtcggt,0
+"cacgcTTCGCAattgatttctgcgctTAAATTgccaAtctta					",1
+cacggCCTACTTTaatgccGacagc,0
+cacggGCTAAATAcccgGctacg,0
+"cactaTTACTTccgtatatatcaggtGATACTcaatcAccatt					",1
+cactcGTTGATTgatcgccctcacaCTTCATcgcattAacaat,0
+"cactcTTTCAAcgagcaattgtatatTGtTATGTAagcaaGtgctt					",1
+cactgACTACGCTttaaGccaga,0
+cactgCTTTCATctccattaacaTCCCATtacgCtttta,0
+"cactgTTGAAAgataaagagatcagcgaagacGACGATcgccGttctc					",1
+cacttCTTGCTGgtgattggtttaatAACCATcaataAagtga,0
+cacttGATAAATTtggaaAtatta,0
+cacttGTTTAATgcggagaatcagtaCACTATtttcttAtaatt,0
+"cagaaTTGAAAattgtagtgtgaagacagtgTATACCcatcgGcgtaa					",1
+"cagacTTGTCTatgatgtcgcgtcatacTATTTTtcaacAcgttg					",1
+cagagGGAAATAtgacgacacttatttatTTGCAAAttcctGtccct,0
+"cagagTTGTTAtcacactatcacccacccaCATTATtgggttGattaa					",1
+cagatGATAAAATaattctGaaaca,0
+cagatGCGACGCTgacgccGctgtt,0
+cagatGGCACATgaactttaattaatTGACTATtcgaaActgaa,0
+cagcaACTACACAggagAtaagc,0
+cagcaGCTAAACTtgcgaAgatcc,0
+cagcaGGAACTCctcgccagaaggtggcgatTATCTATgatgttGgtgtg,0
+cagcaTCGACATTcccgtAttccg,0
+cagcaTCTATACTtatctTtttgc,0
+"cagcaTTCATTgcgtatttccatcggagtgGAAAGTgcaaAcaata					",1
+"cagcaTTGCCAcctcctgtcagagtcgTAAAATtcgccAacgac					",1
+cagcgTAAACTCggcgtgcgcccggtgtttGATCCATtgcgttAtccgg,0
+cagcgTTAACGctatgtacatagcaGCTAAAAAaatgAtgaaa,0
+"cagcgTTCACGccttggcgtacaagtTATTATtttgCctggg					",1
+"cagcgTTCACGccttggcgtacaagttatTATTTTgcctgGgcgaa					",1
+cagctTTTAAGgatgaaggggaactaACCGACATgacagAtatta,0
+caggaCTGGTTAactcatccgttcCGGCGTgaatAcaaaa,0
+caggaTGAAATTatcattaatgcataTTTCAATattaGcaggg,0
+caggcCTGGCTAtttctgatgggcagaaAGCCGTcgcccAatatg,0
+caggcGTTACCATaacgCtttta,0
+caggcTCTACTCTtgtcaAcatcc,0
+caggcTCTATTCTtaacGttatg,0
+caggcTGGCCCcctgttTGCTTcgcgAtgcga,0
+"caggcTTGCGTaaaactcttttggTGaTAATGTgagccTtccaa					",1
+"caggcTTTAATgataagatttgtgcgcTAAATAcgtttGaatat					",1
+"caggcTTTAATgataagatttgtgcgctaaaTACGTTtgaatAtgatc					",1
+cagggCTGGCGAtataaactgtttgCTTCATgaatGctcct,0
+"caggtATGTTAgtctggtaataatcacaaaTAAGATcattcTttaca					",1
+caggtTGGCCCacgatacgaTGCATccacaGatagc,0
+cagtaCATACGTTtacgctGcgtcg,0
+cagtaGATAAACTggcggAaggta,0
+"cagtcTTGCGCcgcattgattagtgcgTATGATagcgtcActgga					",1
+cagtgATAAAGctggatctgcatcaGGCGATTGtcgatGcgatt,0
+cagtgGCGACTCTtgccaGgcctc,0
+"cagtgTTGATGagtactttaaaatcggctcGACTATcaaaAcagac					",1
+"cagttATGACCtctgtacttataacaacaacgTAAGGTtattGcgcta					",1
+cagttCCTGAAAgtggcgaattttatctACCCCTtcctgAacgta,0
+cataaTGAAAGTaggatcaaccaattatAAACAAAacattcAtgatg,0
+"cataaTTAACTgaaatatatatgttaatttTATAATaatgGtttat					",1
+"cataaTTTATAttcccgggaattcatCATGATtatcaAaacgt					",1
+"cataaTTTATAttcccgggaattcatcatGATTATcaaaAcgtta					",1
+"cataaTTTGTAtgagtattaacccgcGATTCTgatgGcgctt					",1
+catacTTCACGcattacgttaagcaTCCGTTATaatcgGttgca,0
+catatGCCACTATcgtaAcaaac,0
+"catatTTTCAAttaagacattcttagaggaTAAAAAggaaTttact					",1
+catcaTCCACCTTctggcAgttca,0
+catccCTGTAAAacgcgccctcagcCCACATccatGtgggc,0
+catcgGGAAAAAaaacataaatttaagcccAATCGAAaataAttaaa,0
+catcgGTTTATTtcaaagccgcccgtagCGCCAGtcagaGcctga,0
+"catcgTTGTGCttgtagtataataaaTAAAATggagtGtcatt					",1
+"catctTTGAGAtaacgcactttcttcaccagTACGTTgcacGctttg					",1
+"catctTTTCTTcctgaggtaatttttcagCATAATctggaAaaacg					",1
+"catctTTTCTTcctgaggtaatttttcagcaTAATCTggaaaAacgcc					",1
+catgaCCTGAAAttctgtatttcgttgCTACATtcattcAaacca,0
+catgaTAACCTTctgtggttgtttgcttgtAATCTCAggagcGtgaaa,0
+catgcTCTACACTtcccaAacaac,0
+"catggTTGAAGatgcgatgaaaggTGaTATCGAtctggAaccgt					",1
+"catgtATCAAAgtacaatttcccgacctaacgGAAAATtgtccGctcct					",1
+catgtTAAAACTccagatagctaacgAATCATAaggtaGaaaca,0
+catgtTTTGATTttactgacggatCCCCGCcagaTtctga,0
+catgtTTTGATTttactgacggatcccCGCCAGattctGacggg,0
+cattcGCAACATTaaataAggagc,0
+cattgATTTAAAcaaaatgacaaaATCCATagacccAtagtc,0
+"cattgTTAATGcaaatacgtctgcctgcaaacTATGGTcgccGttata					",1
+catttCTTTAAGgcgaaacaaataattACGCATcaatttTaatgt,0
+catttGCCATGCTtaaatGtgatg,0
+"catttTTGCGTaagccttattttatgcgTATTATgtcgcGtcaga					",1
+ccaaaTCCAGACTattccGatttg,0
+ccaaaTGCACAAtacgggaacgcagttTATCCAAcacgaGtttta,0
+ccaagGTTACAATggcacAaatac,0
+"ccacgCTGAAAattatcggcgacgactaacgcCAGAATatagaAgccac					",1
+ccagaGTTGTTAtcacactatcacccACCCACattattGggttg,0
+ccagaGTTGTTAtcacactatcacccacCCACATtattgGgttga,0
+"ccagaTTGAAGcgataaaaacgataatgCAAACTacgcGccctc					",1
+"ccagaTTGTCGcgaaaaacgagatctctccTACAATttctaActgta					",1
+ccagcGCGACAAAaatgaGaatcg,0
+ccagcGCGACAAAaatgccAgagaa,0
+ccagcGTGGTATatttgtctgcaAGCCATgcctgGcgtag,0
+ccaggTGAACAGcgctctaggtaggaacttTGTCGTTgatagAgtctt,0
+"ccaggTTGAGAtggctaaattccagtcCATATTctaaccAggagg					",1
+"ccaggTTGAGAtggctaaattccagtccaTATTCTaaccaGgaggt					",1
+ccagtTGAAATAtataaatcttgatttccTGACTTAtcttccAtctat,0
+ccataCAAACTGggctgacaccgtacaggAGGCAAAaagctGgcttt,0
+ccatgTGCACAAcgccacccgacggctgtaaTAACAAAaaatcCcttga,0
+"ccatgTTCCATctgatggatcttagtcagcttTACACTttattGttttg					",1
+"ccattCTGATCgtggtgatgctggcgatTATTTTcatcttTgactg					",1
+ccattCTGGTTAttcttcatacaCCGCAGagatGttaca,0
+"ccattTTGCCGtcctggcgtgtgtaaccgtttTATCAAggaatAagcag					",1
+cccaaTTTACACTgggtcAttact,0
+cccacGATGAAAccgtcagtgcgccagtCGCCACtgccgGggcct,0
+"cccacTTCCCCtcgccgttggcaaTGtTATGATggcggGaattt					",1
+"cccagGTGAAGtccatccaggttgagatggcTAAATTccagTccata					",1
+cccagTATACATTtttgGcgagt,0
+cccatGGAACACcgctttgccgccgcccgcTGGCAGAcggggGtgacc,0
+"ccccaTTGATTaacctattgaaatagttgatTATGGTgagcaAaagcg					",1
+cccccCTTTAAActtctcaataatgtCACCAAttttctGgaaat,0
+ccccgCGACCCTtgccgacgctggcgcacAGGCAGActttGccggt,0
+ccccgTAAACATacttacaactcctgaAATCAGTtaagAcattc,0
+cccggCCGACACTgtccAcgtgc,0
+"cccggTTCAGAgtagcatgtttctacctTATGATtcgttAgctat					",1
+cccggTTGCATggtggatgcTGCATgaagaAacagt,0
+"cccggTTGTGTacattgctaccacggttttTATGGTcgtacGgcctt					",1
+cccgtTCTATACAgggaaGctgag,0
+ccctgGCAACATTgatcctCggcgc,0
+ccctgGCAACATtgatcctcggcgcGGTCGGAattgtcGgattt,0
+cccttTTTGTATctgattattaatCCCCACccgctAttaag,0
+ccgacTGAACTAcagaggaatcgttgttgAGGCACAtcttaAcggcg,0
+ccgagGTGGATTgagccgttagcgtaCGGCAGtgcgcAcgtca,0
+ccgatGCCAAACTggggtAtcgag,0
+ccgatGCTAACTAcctcgGtggtg,0
+"ccgatTTACCTctccttgttctgcgtCATAGTatgatcGttaaa					",1
+"ccgatTTACCTctccttgttctgcgtcatagTATGATcgttaAataaa					",1
+ccgccCTTGAGGaacagcgcgatCGGCAGccgcGttgta,0
+"ccgcgATGACAtatcaggcgttgccaaaTACACAtagctAatcag					",1
+ccgcgCAAAAGttgatgatccttttCCTGAAAAgctaAttgcc,0
+ccgcgCCGACAATgaccaGcgcga,0
+ccgcgCCTGAATgaggtcgatttggtcCTCCACagtctGgagca,0
+ccgcgGGAAAGTggttaggggcactGGTCGGAtttttAtttat,0
+ccgctGCGACGCTgaataAaaaac,0
+"ccggaCTGGATcctgatttacaaacttaccgaTAAACTtttacGatttg					",1
+ccggaGTGTAAAagcatcgcccaCGGCAGgtggCttaag,0
+"ccggcCTACAAaaatcttgccaattcaaTATATTgcaggAccatg					",1
+ccgggGAAAATTttcattttcccctcaaaaGATCGTAgacactGcccca,0
+ccgggGCCAAAATggcaaAtaaaa,0
+ccggtGAAAATTcactgttctattcTGGCAGAagacGcgatc,0
+ccgtcTCTACGCTattgAtattg,0
+ccgtgATGACGaagtgattgccgccGCCGACGAgcacgGtattg,0
+"ccgtgTTAATGtaccggatgacatcatTATAAAcccatActcac					",1
+ccgttCCCACACTcattcAttaaa,0
+ccgttCTGGTGAagattcgttccCCGCACtctgcAtctct,0
+ccgttGATACCTAatgtgAttaca,0
+cctaaTGAACAAtggttgtaaatttgggTAACAAAtatcAttgct,0
+cctatGCCGAACTttacttTacaga,0
+"cctcaATGAAAatgataattgttaTGcTAAAGTagccActctg					",1
+"cctcaTTCCCAaacctcaatcgcgcgcgTATAGTagcaGcgttt					",1
+"cctcaTTGCCAacctttccttttcttctTACCGTtgagaAaaagg					",1
+cctcgATAAAGttatcgaaaccatgTACGAAACaggtaAagata,0
+cctgaGTTGTTAgggataacagaCCGTATtctgGtcatg,0
+cctgaTGGCGTcggcccgtTGCAAagcgGtgatg,0
+"cctgaTTCGTAgaaaaagtgaatggcTGcTATTCTatgttAttcat					",1
+"cctgaTTTACAaacttaccgataaactttTACGATttgagAgaact					",1
+cctgaTTTGATActcccccctgaCTCCTTcatactGaaagt,0
+cctgaTTTGATActcccccctgactcCTTCATactgaAagtga,0
+cctgaTTTGCATaaccctgtttcAGCCGTcatcAtaggc,0
+cctgaTTTGCATaaccctgtttcagcCGTCATcatagGctgct,0
+"cctgcATAACAatgtcctggcaaaagtctTATTGTgacggAaaacg					",1
+cctgcCAAACCTggctggcatagcgccAGGCAAAtcccAtccct,0
+"cctgcTTGACAaaaatgacttcactaagGAAGGTgcgaAcaagt					",1
+"cctggATGCAGccgcaggtgtgggctgctgTATTTTtccctAtacaa					",1
+"cctggCTGAAAtcttaaaccaatgcctTATATTcacctGcaaat					",1
+cctggCTGGAGAactggcaggggCTGCATcacgctAttgcg,0
+cctggCTGGCATagcgccaggcaaaTCCCATccctAtcgtc,0
+"cctggTTGTAGgctccatctggattatgtgGAACCTcaactAcaaca					",1
+"cctgtATGGCAtccctgtacggtcTGcTATAGAccgtaGgacca					",1
+"cctgtTTGCCGgatttgtttatttcgttatTAGTCTtagcGcgtcg					",1
+ccttaGTTTTATcgcggtgcttatAGCCAGcattaAtattt,0
+ccttaGTTTTATcgcggtgcttatagcCAGCATtaatAttttc,0
+"ccttaTTACCTgaagctgttttttattgctTATACAtgatcAaatac					",1
+"ccttaTTCCTGcgaaggataaactgtttttagTAAAAAtcagaAaaagg					",1
+cctttGTCACACTccagGcaccc,0
+cgaaaCGAACCCgtttcgggacaatttccaaAGTCTGTtcactGgcatt,0
+cgaaaGCGAAATTgatgaAacgtt,0
+cgaaaGCTACTCTtacatGtgcag,0
+cgaacGCCACGCAaagctGaccgc,0
+cgaagGATAAACTgtttttAgtaaa,0
+cgaagGCGAAATTctctccCgccgc,0
+"cgaagTTGCGTgttgaaggcactataacacGATGCTagtaTttggc					",1
+"cgaccTTCGCActtaattacaaaattaagTATAATgaagAcaata					",1
+cgacgTCCGCAATcatctGccgct,0
+cgactTCTATACTgaataGaaaac,0
+cgagaCGCACTAcgacgcctggccgcacaaAGTCAGTctcgGcgtcg,0
+cgagaGTGGATTttgttacagcacagtCCGCAAttcctGctgac,0
+cgagcATTAAGcacattgagttccgtGACGATCGctttGtggcg,0
+"cgaggTTCGAAtcctcgtaccccagccaattTATTCAagacGcttac					",1
+cgataTTCACGgtgcataccgtcagGCTGATGGccgctAtaccg,0
+"cgataTTCGCActggcaaaaaaacgtgcttGAATATctgttGaaacc					",1
+cgatcAAAAAGgggcgatattgaaccTTCGATTAtgcttGatggg ,0
+cgatcGCCGCTCTtcttccAaacgc,0
+cgatgGTGGAATcaatgtatgttCCCCAAtggcgGgcgac,0
+"cgatgTTGCAGgatatccgcgcgctgcgcCACACTgaaatcGactat					",1
+cgattCTCCAGaaacccatatgtactCCCTATAAgaaaAttact,0
+cgattGAAACTAcacgttgcaatttgccgtTGACACAttcggGcggaa,0
+cgattGCCAGAATtgaaaAttgta,0
+cgattGTGGAATatgttggaatgatgaACGCATtgcaAttgat,0
+"cgattTTGATTttgggaaatcaacacggcaTAATTAtgtcAccgga					",1
+cgcaaTAAAATCgccatttatttgcactggTATCAGAaaaaaGgcatc,0
+cgcaaTGGCAAtctcccccTGCAAcgcgccAgggcg,0
+"cgcaaTTGATTtctgcgcttaaatTGcCAATCTtaagcAgatga					",1
+cgcacGCAACACTcgtaTtctgg,0
+cgcacGCCACCATgcaaGcgcca,0
+cgcagGCGAAAATcgcgAttgcc,0
+cgcagTAAACGTcgctgtggtttgctttaaAATCTGAccatccGccttt,0
+"cgcagTTAATTttctgcgcttagaTGtTAATGAatttaAcccat					",1
+cgcatCAAACTCgtcggcgtgatcccagagGATCAATcagtAttgcg,0
+cgcatCGAAATTgaacatttccgtaatgAGGCAAAcaatcAggaac,0
+"cgcatCTGTTAttcggacgaccagaaaaaTATTTTccggtGaagtt					",1
+"cgcatTTGCCCggtaacgtgccgggcatTGcTACTGTaaaatcGcacca					",1
+cgccaCTGGAAGggccgcgcggtgccaCGGCAGaacaActgct,0
+cgccaGTTGAAGtggtgacggcgaCCTCACattgtGgcagt,0
+cgcccGGAACATattgcgctaagctcgcAGGCAGAaggcgGcgtac,0
+cgcccGTTACGCTaccgAtgata,0
+"cgccgTTGGCAatgttatgatggcggGAATTTttaccAaacac					",1
+cgcctCATACATTacgcctGttccc,0
+"cgcctTTGGTAttaccggcggtcacattccTAAATTcgctaAaaatt					",1
+"cgcgcATCACTttgaccagtaaagagttTACTCTgctggAgttct					",1
+"cgcgcATGGAAactgctggagcatccTAAGTTccgtGcggct					",1
+cgcgcCTGGCGAagagtaccagtaCACCAGcggtGcaatc,0
+cgcgcGCTAGCATgataTttcac,0
+cgcgcTGGCGTgggtacaacgcTGCATgaaagGctatc,0
+cgcggCTTTTATttgaagaagaatttCACCAGtgcactActggc,0
+cgcgtTGAACATctccagttgggtcaGATCCATagcaTtctcg,0
+cgctaTAAACTGtggcagatcaaatAATCCCAtcactGactaa,0
+"cgctaTTAATAttttaacgaatgataaggTATTCAaggcaGggtta					",1
+"cgctgATGCCTgatgcgacgctgacgcgtctTATCATgcctAcaaat					",1
+cgctgGGCACCAtgcagggtcactacgaaatGATCGATgaaaAtggcg,0
+cgctgTAAACTTatttgagggtgttacatgaATTCATActcaAttgct,0
+"cgctgTTTTCTtaagcacttttccgcacaactTATCTTcattcGtgctg					",1
+cggaaTAAACCTtatttgttgcagccctgTGGCACAatggtcAacata,0
+cggagATTGCATccggcagcgttatccCGCCACaatgAcctga,0
+cggagCTTGCTGtaccgcgcgatattCGCTATctgaaAcagat,0
+cggatGAACCCTcgcccacgagacgagAGTCAATtaccttAgtgtc,0
+cggatGTGGCATaaacgcctcatcCGCCCTtgaggAacagc,0
+cggcaGCCAGGTTgatttCccggc,0
+cggcaTGAAATAaggcgcaccgggtTAACACAtttgCccgat,0
+cggcaTGAACTAtaaagacgatcgccagaAGGCAATcagctGgctga,0
+"cggcaTTGAATgacaggtatgataatgCAAATTatagGcgatg					",1
+cggccTGAACTTttggcataggaattttaTATCTTTggtgaAtaatc,0
+cggcgATAAAGacatcttcaccgttCACGATATtttgaAagcac,0
+cggcgCTGGAATcctcccacgccctgGCCCATgcgttGaaaat,0
+"cggcgTTTACAggtatactcgctaaaaatTATTCAgcggGtttgg					",1
+cggctGGAAATCattcaatactcacacTATCGAAagttcCccagc,0
+cgggaTCGACAATcaggcAgcgac,0
+"cgggaTTGTAAtgtcaatccacacccacagGAAAATgttgtcGaaaag					",1
+"cgggaTTTTTTttgatgtatggagatTGcGAAAATccccGcatct					",1
+"cggggTTGAGCttatcaagtaaatcggtGAAAGTaccgtGcgtca					",1
+cgggtCTTTTAAatgagacatcgtttttCTCCCTtcagGttcaa,0
+cgggtGATGCACAgtggtGccggg,0
+cgggtTGAACAAtttacaaaagaaagatATTCCATatcgtAtaatg,0
+"cgggtTTGCTTttatgcagcccggctttttTATGAAgaaattAtggag					",1
+cggtcGCCAGCTTtctccGgacgc,0
+cggtcTGAAAGTtaacgccggacacGGTCTGAcctatcAcaacg,0
+"cggtgATGAATacggtactggtattgctggtCATTCTggtttAtttaa					",1
+cggttATGACGggcatcgcgggtctGCTTATTAtcttgGcgtgc,0
+cggttCACACTTttcaatgaaaattgctGATCAATttcatGatgag,0
+cggttGCCACGCTgattgAaaaca,0
+cgtaaATTTAAAttgttaaattaaCGCCCTccagtAcacaa,0
+cgtaaATTTAAAttgttaaattaacgccCTCCAGtacacAatact,0
+cgtaaCTCACGcaccagcgcctgccGCTGACTTtcatccGgctcg,0
+cgtacGTGGTATatgagcgtaaacACCCACttctgAtgcta,0
+"cgtacTTCTCGcttttggcggtatccggTACACTgcatttTgtcta					",1
+cgtagTGAACATgctgccacactaacaatTCTCTGAtaaggAgccgg,0
+cgtatTCCAGATTaaggttAagaat,0
+"cgtatTTCCATcggagtggaaagtgcaaacaaTATTTTttgcgActcca					",1
+cgtcaGCGATATTccccGtgatt,0
+cgtccCAAACTTacaccagaacaatGGGCACAagctgGacgat,0
+cgtccGAAACTCtacaaagtcgattGATCATAcaggcAatgct,0
+cgtccGGAACGTatcctaagtctccgcTGGCGATttccGcgtac,0
+"cgtcgATGCACagcctcatcattttgcagTATCCTtaagAtattc					",1
+"cgtctTTGAAGctctgatgagtaacctgcgTAAAGAggcgaAaatca					",1
+cgtgaTGCACGAcgcctttggtattaccggcGGTCACAttcctAaattc,0
+cgtgcACTACACTgtcaAtcaga,0
+"cgtgcCTGAATcttctctttatcagcagTAAACTagtggGtattc					",1
+cgtgcGCCAGCATcaggcAgccga,0
+"cgtgcTTGAATatctgttgaaacccttTAACAAagcacAggagg					",1
+"cgtggATGCAAgtctaagcctacgaaGATAAActctGtttcg					",1
+"cgtggATGCAAgtctaagcctacgaagaTAAACTctgtttCgcaag					",1
+cgtggTTTGAAAaaatggcgctcACCCAAcatctcAcccca,0
+cgtggTTTGAAAaaatggcgctcaccCAACATctcaCcccat,0
+cgtgtCTGTATAttaataagctaacCCGCATtgagttAaccaa,0
+"cgtgtTTGAAGacgcggctaaacgcgcctcaTACATTacgcctGttccc					",1
+cgttaCGACCTTtacggcaggtcatGAACGAAcgttAccgtt,0
+cgttaTGGCATaacatccCGCAAtttaCctctg,0
+cgttcTGAAAAAgaaatcataaaatatTAGCAGAtacttAtttcg,0
+"cgttcTTACATacgatgtaccgctgttctcttTACGATttttaGctgta					",1
+cgttgCATACCCTcgccgGagaac,0
+cgttgCCTATACTccagGcagga,0
+cgttgCTGGTAAcccgcgcgttgttaaAGCCATgctgGcgaac,0
+cgttgGCGAAATTcatttTctgcc,0
+cgtttGCCACCATcaccaGacgga,0
+cgtttGTTACGATagtgGcatat,0
+cgtttTTAACTTtttctgttgcgtaacggaaAGTCAAAaagtgAgcaaa,0
+ctaaaCTTGCGAagatcccgaaacCACCAAgccagGcagta,0
+ctaaaTAAAAATttttcactaattgattAGTCATAgccaGcgata,0
+ctaacGCCAGAATatagaAgccac,0
+"ctaacTTAAGGgttgtggtattacgccTGaTATGATttaacGtgccg					",1
+ctaagGGAAATTcgctccctgtttacgaaGGTCAAAgttcGtaagc,0
+"ctaatATAAAAatagggagaaatgatggagctTATATTcattgGcgatt					",1
+ctaatCTTGTTTgcatcaacacaCCGCACggtgTtctca,0
+ctacaGATAGAATtgcaaGctttc,0
+ctaccGGAACTTattcactccgacaagaactTATCCGTacaggAgatta,0
+ctacgGCGGCGATggtaaAggcgg,0
+ctaggCTTGCTGatcccgcgcaacaaaaCGCCATgctttGctcgc,0
+ctatcCGAACCTtctcttttgtaacGTTCTAAatatAttcct,0
+"ctatcTTGTTAtacaaaacaatacagttcttTACATTtgccttGtttta					",1
+ctatgCTGGAAAgtatgccggggcatCACCAGgttgaAgcgtg,0
+ctattGATAAATTatcgcAgcaac,0
+"ctattTTGTTAaccactcttccggcgagGAAAGTtagcccGctggt					",1
+ctcaaGCCACAATggatGcagga,0
+ctcaaTAAAAGcagttccattacttcTCCGGTTAgtaagAaatca,0
+ctcaaTAAAATAatgatgatgatgtTATCAATactatcGaaaac,0
+"ctcacCTAAATgatggtcgggcatcaaTAAAGTgccaTccata					",1
+ctcagACTAAAATaagagGcgggt,0
+ctcagCGAACTCagcgtcgaagaggtGTTCAATcgccGtctgg,0
+ctcagTTGACGcaagattcccgcgttGACGATCTccagcAaattc,0
+"ctcagTTGGTTagagcacatcactcaTAATGAtgggGtcaca					",1
+ctcatGGAACACcccttgcgtattggttTATCGATgacaGcaact,0
+ctcatTACACTTaactcatacggtgaaatGGACTGAatctctCgatac,0
+"ctccaTTAACAcgatgttgtaattcggcacacTACATAagggtGtaatt					",1
+ctccgCCGACAATggcaAtttcc,0
+ctccgGATACGCAatggCttaat,0
+ctccgGTTGTTTaatcatctgaaCACCACaagtAtagaa,0
+ctccgGTTGTTTaatcatctgaacaCCACAAgtataGaaagc,0
+"ctccgTTAACGaaaaacaacatccttgcaTATTCTgcaacAaccgt					",1
+"ctcctTTGCATttagcaactgactgtaacagcTAAAATtagtcGctttt					",1
+"ctcgaATTATTtagagtatatccattTATTATctttctGcgcac					",1
+ctcgaTGAACCGacgcgcggtattgatgtcgGGGCGAAgtttgAaattt,0
+ctcgcCGAAAGAcgctttcttcgatGATCCGAaatcgGaccgc,0
+ctcgcTCTATCTTcttgcAgccct,0
+ctcgcTGCACAAcagctctgtaatgcgcTTTCACAggtagAttagc,0
+"ctcgcTTGTCGccttcctgcaactcgaatTATTTAgagtAtatcc					",1
+"ctcgtTTAACCtttattgatatgtactacgTATCTTatttActtcc					",1
+ctctcATTTAAAatcgcccctcctcCAGCATctatActtat,0
+ctctcCTGGTTTgaacagaaagcgatCGTCATtctgctGacgct,0
+ctctgCTCACGctgatacggggtttTCTGACGAccttaActgcg,0
+ctctgGATAAGCTgctcgAtaagc,0
+ctctgTAAAAGccattaccgattttGCCGCCGAcgagctGcacgt,0
+ctcttGAAACTAataatacgtatggaatTGTCACTatttAtctgc,0
+ctcttTGGCACgggttgccaccTGCATcgcctGttgct,0
+ctgaaTGAAATGgctgccgacgacgcccTTTCTGAggctGtcagg,0
+ctgaaTGAACAAcgggcaataaatagccaAATCTTTctttAtcaaa,0
+"ctgaaTTAAAAcgcagaattttgtccGATAGTggtatcGgtgta					",1
+"ctgacCTGATTtcaacgtgttgaaaaaTAGTATgacgcGacatc					",1
+ctgacGCGACATAatacGcataa,0
+ctgagGCCAAGCTgtactcAaaaat,0
+"ctgatATGGAActgatcggtattccgcacacTATTGTgctggGcgacc					",1
+ctgatGCGACGCTgacgcGtctta,0
+ctgatGCGACGCTggcgcGtctta,0
+ctgatGCTGGCATtaactAccgac,0
+ctgatGGCAATTttattgactggaaGATCTATcaatcGgtagc,0
+ctgatGGCAATTttattgactggaagatcTATCAATcggtaGctgct,0
+"ctgatTTACCTgatgccgccctatatTATTCTcccgcAacagt					",1
+"ctgatTTGCATaaccctgtttcagccgtCATCATaggctGctgtt					",1
+"ctgatTTTCCCcttttccttgattgcTGtTATTTTttcctGgccca					",1
+"ctgatTTTTAAaacaacaacgcttatTAAAAAataatGagtaa					",1
+ctgcaTCAACTTaacgtaaaaacaacttcAGACAATacaaAtcagc,0
+ctgcaTCCAGATTagaaAttctg,0
+ctgcaTGAAATTctccagataatgctgGTTCTGTattgGcttat,0
+ctgcaTGAACTCaccaaacggctgattgccGGTCATTttggcGaggca,0
+"ctgcaTTGCGGcgcttcagtctccgctgCATACTgtccaGgtgag					",1
+"ctgcaTTGCGGcgcttcagtctccgctgcaTACTGTccagGtgagc					",1
+"ctgccATGAAAatgcgatcccgcctgcTGaTATTGAaactgGctgcg					",1
+ctgccCAAACGcacctggtggaacctGACCAAAAgcgtGctggc,0
+ctgccGATAAGTTgtgatAagaca,0
+ctgccGCTAGGCTtgctgAtcccg,0
+ctgccTCAACTAggctgaaaaatggtgcGATCGGActggtcGtacca,0
+ctgccTGCACCTatgataattcgccTGACGAAgattttAttatc,0
+ctgcgCTGTAAAgattttcagacttACTCATggaggGttcct,0
+ctgcgGCAACCAgcattgccacctccTGTCAGAgtcgtAaaatt,0
+ctgcgGGCACCActgctacagtggtGGTCACTggcaaAcaaga,0
+ctgcgGGCACCActgctacagtggtggtcacTGGCAAAcaagAtcgcg,0
+"ctgcgTTACCCtgtaccacaacgattTAACCTgcgaaGccgac					",1
+"ctgcgTTCGCTcaccccagtcacttacttatgTAAGCTcctggGgattc					",1
+"ctgcgTTGCGTaaattgatgatgaatcatcagTAAAATctattcAttatc					",1
+ctgctGCCAGGTTttgcAccgga,0
+ctgctTCTGGCATgtgtcGgtcag,0
+ctgctTTTACCCTctaccAttagg,0
+ctggaATTGAATgctctggttcgtCGCCACtttccGcactg,0
+ctggcGTTACCCTtgtcGcaaag,0
+ctggcTATGCGTTttttGcatag,0
+ctggcTGAAATTcgcgaaaaacagatggcTGGCTAAttacaGccgtt,0
+ctggcTGAAATTggttttgtatttgggGAGCAATggcgAtgacg,0
+ctgggCGACCGTaacctcgacaacgacgaTATCGAAtataaAtatcg,0
+ctgggCGCACTTcccgttctacttcaacAGTCAGAcgctgGaaatg,0
+ctgggGCTACCTTcgtctcAaattt,0
+ctgggGTGGAAAcggttggccgcaatcgCGACACatcatcAgtatt,0
+ctgggTAAAACAagctattcagaattcctgAGTCAATtagccAaccag,0
+"ctgggTTGGCGtggaaacacaggggaaaTATACCcaggGtatga					",1
+ctggtGGCACCCgcagtactgagctggttgcTGGCAAAaacactGttgct,0
+ctggtTGAAAATacttagctgttatgtgccTGTCTTTtcaccActtca,0
+"ctggtTTGAACgtgcaagcccacgtatTATCCTcgctGcacaa					",1
+ctggtTTGACGtccccgcgacccttGCCGACGCtggcGcacag,0
+"ctggtTTGCAActaccgagtcggcaaTAAAACattgcGgacca					",1
+"ctgtaCTCAAAaatatataagttggttcagTAAACTccagGcaagt					",1
+ctgtcTGAAATTtctcaaattctaaaAATCTCAaccaaActtat,0
+ctgtgCTCACGccattgcttatattgGCTGGTTAcaatAtgcac,0
+ctgttTATAAACTaattccTaacaa,0
+ctgttTCAACAAtcatcctattttgccaTATCAGAaaaatAacata,0
+"cttaaGTGCATtaactgactactttttTATTATtgatgAgtata					",1
+cttaaTAAAATAcaatatcgaaacccaTAGCAAAtaatgAttcaa,0
+cttaaTGGCAAagcgaattcTGCAAaagtGcattt,0
+cttacCTTTAAGcgcgctgaagaccatACCCGTccggGttggc,0
+cttacTGAAATTtaagtactgatgatTGACTTAgccccTttttc,0
+cttagCACACTTccactgtgtgtgactgtctGGTCTGActgagAcaagt,0
+"cttagCTGAATacaagtcgccaggagtaTATGAAtaaaTcccgg					",1
+cttagGATACGTTccggAcgcgc,0
+cttatCGCACTAcaatggcactcaacaccTATCAGTacaggGaaact,0
+cttcaGCGACGTTggctttTatcag,0
+cttcaGGAACGTgtgtatagtgcgccaagtTATCAGTattaaGgaatt,0
+cttcaTGGCACagcgttaaCGCTAtgtacAtagca,0
+"cttcaTTGCTCtcttctccttgacctTACGGTcagtaAgaggc					",1
+"cttccCTGAAAaaattcgttgtcaggataagGACAATcaataAaggac					",1
+"cttccTTCAGAcgacgcatacaggtaTGtTAGTCTggtaAtaatc					",1
+"cttcgTTGTGAgtcacaaaatggcaacctTAAGTTaaatttAttaac					",1
+cttgaCTGGATActgccttcacgcaaAGCCACacggaAgacag,0
+cttgaCTGGATActgccttcacgcaaagCCACACggaagAcaggg,0
+"cttgaTTGCCAaatactagcatcgTGtTATAGTgccttcAacacg					",1
+ctttaTCTACAGTctgtgGtccca,0
+"ctttaTTAAATgaaaagggaatgatgtgttgTAAGAAaccaaAgcaat					",1
+"ctttaTTACCCgcaacggagctacaaaaaccTACGATgccggGtgcga					",1
+"ctttaTTGTTTaccgagcagcgttcagagaaaTATCAAttcgttAcaggc					",1
+ctttcCTTGAAAtaagtaataagCCCTATttgggGaatat,0
+ctttcCTTTAAAaaacaaaaaacCGCCAAaatcaGgcggt,0
+"ctttcGTAAAAcatccctaccctgcttcaggTATACTatgccCctcga					",1
+"ctttcTTGTCAtcggctccgttcgccgtTATGATcggtcGtcttt					",1
+"ctttgTTGATTtactggctgatcgtctGAAATTttacGcttaa					",1
+"ctttgTTGTTTttgaaatttattaattTAAACAattaGttgag					",1
+"cttttCTGCCGtcgattatgctttccggcttTATTTTtcagAtcgac					",1
+cttttGCTACAATaaaaGcgttg,0
+gaaaaACTGAATTaccggGtgatg,0
+gaaaaCCTGAAATactgtAtaaac,0
+gaaaaCCTGAAAtactgtataaacAGCCAAtattGtggca,0
+gaaaaCGAACATgatgtttgtggttggtaatTATCACTgatcGttgat,0
+gaaaaCTTAAGcccgattacgaaaacGCCGGAGTacaaAtactg,0
+gaaaaCTTGATGagttgtattgatCCACAAcgtaAtgttt,0
+"gaaaaTTGCAAtacgattattgttgtaTATTCAagataAtgtga					",1
+"gaaaaTTGCCCgctggcagcgtaaacgTATTCAgcatcAggatt					",1
+"gaaaaTTTTCAttttcccctcaaaagatcgtaGACACTgccccActggc					",1
+gaaagATAAAGagatcagcgaagacGACGATCGccgttCtcagg,0
+gaaagGCGAAATTctgccAggcaa,0
+gaaagGCTACACCagtctGgtggt,0
+gaaagTGAAAAAaagaaagaccggcaaccTGTCAAAacgaaGccggt,0
+gaaatCTGGTTAaaataacacgcaaCACTATtcttcTtcctt,0
+gaaatTAAAACTtatcagatttagcatgtgAATCAATttagaAggtca,0
+gaaatTGAACATttccgtaatgaggcAAACAATcaggaAccgtt,0
+gaaatTGCCCCTgatgagtgctgggaaggatGGTCAGAagatAcggag,0
+"gaaatTTCGCGatatggcaggacaagacgTAAAATtgacaGcaatt					",1
+gaaatTTTACGCTtaacAcacgt,0
+"gaaatTTTACGcttaacacacgtcattgatTAAGATcaccAcgcgt					",1
+gaacgCAAAAGtattcccaccagctgGCTGAAGAtcacctTatatg,0
+"gaacgTTCTCTtcactgacttttcgtctTACTGTgttgccGcattt					",1
+gaactCAGAAGtgaaacgccgtagcGCCGATGGtagtGtgggg,0
+gaactCTGGAAAgccagtctttagatgCGCCAGgatgcAgaggt,0
+gaactTGAACTGccgccggtgaaaattcactGTTCTATtctgGcagaa,0
+gaagaCATACCCTatgtgAtcttt,0
+gaagaTGAACGCgtctttgctcaatgTATCACAcaggaAtaata,0
+gaagaTGGCACctctccggataCGCAAtggcttAatgaa,0
+gaagaTTTGAAAttgttttagcgcagCGGCAGtttcAtacta,0
+"gaagcCTGTCTgtcactcccttcgcagtgTATCATtctgTttaac					",1
+gaagcTGAACCCgtttttttctgcatgACTCAATcgtcaAaattc,0
+"gaagtATTCATctaacggggctctctatttttTAGAATagagtGcatat					",1
+gaagtGGAACAAccgttgcgtggaaaaTATCTGAccgttGgttgt,0
+gaagtTGAACAGgtcatatgcttctcattgTTACAAAcgagGctgta,0
+gaataTATACATTaatttTttatt,0
+"gaataTTAGCCgcattgcgaggctcgtttattTATACTtttctGacgcg					",1
+"gaataTTCCCAacatcaatttaccatGATTCTgatattGacaat					",1
+"gaataTTCCCAacatcaatttaccatgattctGATATTgacaAtctaa					",1
+gaatgATGAAGcttatcaacgcgatGATGAATAtaatcAgcagt,0
+gaatgGCTGCTATtctatGttatt,0
+gaatgTTGCACcaatatagTGCTTcaatgGaaaca,0
+gaattTCTAATCTggatGcagat,0
+"gaattTTATCAccagaataaagcaggTAATTTtttgAttttt					",1
+"gaattTTGTCCgatagtggtatcggtgTACCATtcgcGcagac					",1
+"gacaaATAAATtcaaaatatctcttcTATTTTgcaacAggagc					",1
+gacaaTGACCATcaggattgccatcagGATCATTtgattGcgtaa,0
+gacacTGAAAAAtcctaccgcgtatTATCTGAccattGcctat,0
+"gacacTTTCCTttattacccgcaacggagcTACAAAaacctAcgatg					",1
+gacagCAAACGAgggattatctggtacaacTATCCAAagataAatcag,0
+gacatCGAAATGcgtggttttacctttGATCAAAaacgccAgatac,0
+"gaccaTTGCTGgttaattgaatagctcatTACACTccattAacacg					",1
+gacccGATACCCTttcaCtcaat,0
+gacccGCTAACCTccccaAaagcc,0
+gaccgGTAAAGaaatcaaaattgccGCAGCTAAcgtaccGgcatt,0
+"gacgaTTACCCgtaatatgtttaatcagggcTATACTtagcAcactt					",1
+gacgcGCTAGCTTcaggtGttagt,0
+gacgcTGACCTGgcggactgctgccgtcaGGTCAATatgctAaaaat,0
+gacgcTGGCGCgtcttatcaTGCCTacgaGcccgc,0
+gacggGATAGGTTtttaaGatgga,0
+"gacggTTACCAgttcaaagtggcgatggccGACAGTcggcGtatta					",1
+gacgtTGCACAAttgattaatttctgaacATTCAAAtcaaCtccca,0
+gacgtTTTGATAaaaaaatattgtCCCCGAagtgAtggga,0
+"gactgTTCCTGtggcgtaaacgttttTATGTTagtaccAacaga					",1
+"gacttTTGCCCtctacgccccgttcatcCATGCTgataGcatcg					",1
+"gagacTTCCTTcagacgacgcatacaggTATGTTagtctGgtaat					",1
+gagagCTGGATAgcagagttgctggCGGCAAaggacAgaacg,0
+gagagCTTGTGTtaacatttcaatACCCTTacagttGagagt,0
+"gagagTTCCCCcttattcctgcgaaggaTAAACTgtttttAgtaaa					",1
+gagatCTACCGcaccaccagcgaaatGCCGGTAGaagaaGcgtat,0
+gagatTGCACGTctcaaacgccagcTGGCAGAacgggAtgaag,0
+"gagcaATCAATcaaaacaacatacttTATATTataaaAcacca					",1
+"gagcaATCAATcaaaacaacatactttaTATTATaaaacAccaag					",1
+"gagcaATCGCAtataaacccggaacaaTATTATttaactAttcac					",1
+"gagcaATGGCGatgacgcatcctcacGATAATatccgGgtacc					",1
+"gagcaATGGCGatgacgcatcctcacgaTAATATccggGtacct					",1
+"gagcaCTGCCCggggccaaaatggcaaaTAAAATagcctAataat					",1
+gagcaTGAAATGagaaatcagagagcaacGGTCATTttgaaAgggtt,0
+gagcgGCTACCGTtatcAcccgg,0
+"gagcgTTGAGAaccaacgcgcaggcgCATTATcactGctgcc					",1
+gaggaAATACAATgggtgAtccct,0
+gaggaTCGGCGCTaattGtgctg,0
+"gagggTTAACAttcttcgcgccacattgTAGCATcgcgGtaatt					",1
+gagtcCTGGAGAaaaccgccgattccgcCCGCATtcatGttcgt,0
+"gagtgCTGACAggagggcatgtggaaaaaTATTGTgagttAatacg					",1
+"gagttTTGACGagatggtgccggagttcatcGAAAAAatggAcgagg					",1
+"gagttTTTAGAtagtatcaatgtgctttgtgTATATTgtggcAaataa					",1
+gataaTGCAATTttatcaggatacaATTCAATttcgGcctga,0
+"gataaTTGTTAtgctaaagtagccactctgTAAGCTgacaAcactc					",1
+gatacGCAACTTtattagcatgcaaAATCCAAagttGccagt,0
+gatacGGCACATtgctattaatatttTGACGAAtgataAggtat,0
+"gatagATGATTtgggtgaaattttagcTAAGATgaaacAgagaa					",1
+gatagTCTACATTcagacAaaaag,0
+gatatATAACGtcggtttataaacaGACTATTAtcataGgtagg,0
+gatatCGAACAAagggcctgcgggccctttTTTCATTgttttcAgcgta,0
+gatatCGAACACtaacttctgttcgatGGTCTGTtcccaGtcgta,0
+"gatatTTACCAtgtcaatgaaatggtggtTATGCTgccaGtgctc					",1
+"gatatTTGATAagtttgctcgcgggaaTAAAGAgtcgGcagta					",1
+"gatccTTACCTggtttttagcacagatttaatTATTTAagcaCttgat					",1
+"gatcgATGAAAatggcgtccctttcagcatcGACATTcccgtAttccg					",1
+"gatcgATGCTTtcgctgcttttaccctcTACCATtaggctAattgc					",1
+gatcgGCCATCTTcgatgAatcgt,0
+gatcgGTTGTGAatataaacctcgtggCCTCACcgaagAagggc,0
+gatcgTAGACACTgccccActggc,0
+"gatcgTAGACActgccccactggctgatTATTATgccgcGccctg					",1
+"gatcgTTAAATaaacgaacgctgttcTATAATgtagaAcaaaa					",1
+"gatcgTTAAATaaacgaacgctgttctaTAATGTagaacAaaatg					",1
+gatctGGAACGTggtggcggaaaacGAACTGAccatGctggg,0
+gatctGGAACGTggtggcggaaaacgaacTGACCATgctggGattag,0
+gatgaATTGAGAcgtagtatccaCACCAAgccggAattat,0
+gatgaTGAACGAtacgctgtttaatgcGCTCAATgactgGgtgga,0
+"gatgaTTCCCAgtatccagggatggaTACAAAgacaGcaagt					",1
+gatgcCCTGCGTTtgatcGttgta,0
+gatgcGATAAATTaggttGttata,0
+gatgcGCTACGCTtatcaGgccta,0
+gatgcGTTGATAagggaaccaggaagatCCCTAAacctcAgaatt,0
+gatggGGCAATTaagtgaaacagagacaTGGCAATtccttGctgac,0
+"gatggTTGGCAaccgacgacagtccTGcTAAAACgttcGtttga					",1
+gatggTTTGCATaagaagacatgtttCACCGTcataaAccaga,0
+gatgtCCCACAATtgaccGcagcc,0
+gatgtCTGCCGagtaagcccgtaggCCGGATAAggcgCtcgcg,0
+"gatgtGTGCCAcacttgttgacgttacTATTTTgttaAccact					",1
+"gatgtTTCCAAccgtgttaatgtaccggaTGaCATCATtataaAcccat					",1
+gattaGCTACACTtaactGtacaa,0
+gattaTCTATCTTtaaccGatacc,0
+gattaTGCCCTAtgacatggtctgtcttAATCAATctcatcGcaaac,0
+gattaTGGCGTaagaaaatTGCAAtacgAttatt,0
+gattgATAAAGcgggttattaatcaTCTGATTTacaaaAcacgc,0
+gattgCTGGAAAaaatcgccccttCCGCACataaaAttggt,0
+"gattgCTGGAAaaaatcgccccttccgcacaTAAAATtggtGcatcg					",1
+gattgGCGACAAAggtgGcgtac,0
+gatttACCACATTtatcAtctta,0
+"gatttTTAGAAattttcggcaacccacgcagtTAAAAAtcaaGtttcc					",1
+"gatttTTGCTTgtaattggcgttctggtctGATTTTtgtggAgtaag					",1
+"gatttTTGTTTtgtgattctgattaaGAAAAAgaaaAtatca					",1
+"gatttTTGTTTtgtgattctgattaagaaaaaGAAAATatcagAcgata					",1
+"gcaaaCTGATTtacctgatgccgccctaTATTATtctcccGcaaca					",1
+gcaaaTGAACAAttttggaaaaccgctcgcATTCAGTagttAttcat,0
+gcaaaTGGCATcattccTGCTTttaccAggggg,0
+"gcaaaTTGCCTatgccgaactttacttTACAGAtgttcTctggc					",1
+"gcaaaTTGCCTatgccgaactttactttacaGATGTTctctgGcccga					",1
+gcaacGCTACTCTgtttAccagg,0
+"gcaacTTGGCCcgcgcgtgattgtagaacgTAATTTacctAccgga					",1
+gcaagGATATAATtccgcAggaag,0
+gcaatGGAACCAtgcatcgagcgcgttttaTGGCGGAccgtGccacc,0
+"gcaatTTCACCgctcagtacatacgttTACGCTgcgtcGatgca					",1
+gcacaGGCACTCcttaaatataaagccTTTCTGAttgaGcaaca,0
+gcacaTGAACTTtaattaattgactATTCGAAactgaAtttat,0
+gcacaTGAACTTtaattaattgactattcgAAACTGAatttAtgcca,0
+"gcaccATGCAGggtcactacgaaatgatcgatGAAAATggcgTccctt					",1
+"gcacgTTCGATaatctcatctatTGaTAAATTatcgcAgcaac					",1
+gcactCTTGCAGgtattgacccttgaCGCCAGggtaaGcacat,0
+"gcactTTGTCAggctgcgttggcagcagcTAAACTtgcgaAgatcc					",1
+"gcagaATAGCAggattttgacgaggTGtTAATCTgtttAcaaaa					",1
+"gcagaATGGCAacaaaatgaccaaaaacTATCGTgccaGctaca					",1
+"gcagaTTGTCAgcaggtggatgaaacCATGCTgcccaAacgca					",1
+gcagcATGGAAAaaccgtccgatcacgcCCCCGTctggGcgacc,0
+gcagcCTTTATTgcctggcgctgTCCCATctgcGtttgt,0
+gcagcGAAACTGccgattaaaaccacctttgTAACTAAgacgGtgatg,0
+"gcagcTTGGCGcaagcctgatgtatgaacagTATTATggcgAtgaag					",1
+"gcagcTTGGCGgagtcggggtccgctgGAATATctggAccggc					",1
+gcaggTATACGCTcgcgGcaaac,0
+"gcaggTTCGAAtcctgcacgacccaccagtttTAACATcaaaCtcaga					",1
+"gcaggTTCGAAtcctgcacgacccaccagtttTAACATcgaagAcagat					",1
+"gcaggTTGAAAcactgtatgaagaactgggCAAAATcgatAttgtc					",1
+"gcaggTTGGCGtctggatgccctgcgtttGATCGTtgtaAcgcat					",1
+gcagtCAAACAAccaaagtccgctctgGGTCGGAtgttGcaggt,0
+gcagtTGAACGTgacagatcgtaaaaccGGACAAAcctcgAccatc,0
+gcagtTGCACAAtttcgcggacaacaGGTCAATagcgAtctgg,0
+"gcagtTTGCACacatcctggctcataaagGAAATTatcaAtaaga					",1
+gcataAAAAAGtgccagtatgaagacTCCGTAAAcgtttCccccg,0
+gcataACGACATTtatactGtcgta,0
+gcataGAAACATtacccagtcgaacccacgGGTCTGAaagccCttgct,0
+gcataGTTTAAAatggctatcatcaataCGCTATatctgAtggaa,0
+gcataTTAACTTtgtaacgtcatagAGTCAAAgaaaaAggcag,0
+"gcataTTGCATaaataatcagatctgTATCAAagttttAacttt					",1
+"gcataTTGCATaaataatcagatctgtatCAAAGTtttaActtta					",1
+gcatcATTAAGcacatcacagtaaccGCTGATCAtagcaAaccct,0
+gcatcGAAAAATtcctgtagtcgaaaaTGTCAAAaatatcGcgaca,0
+gcatcGCTAAATAtggtgAtcctg,0
+gcatcTGGCACgcgatgggtTGCAAttagccGgggca,0
+"gcatcTTGGGAaactgcgcgtaacccTACATTtcatccAggtaa					",1
+"gcatgTTAAAActccagatagctaacgaatcaTAAGGTagaaAcatgc					",1
+gcattGCGAGGCTcgtttAtttat,0
+gccaaTAAACGTggctgcccccgccagtatGGTCAGAatgagAggtac,0
+"gccaaTTAAAAaagaacgccatatttattGATGATtgatcCcccgg					",1
+gccacGTTACAATactcttAtcagt,0
+gccagCTGGAAGccttatatcatCGCCGCgatgAtcctg,0
+"gccagCTGGCAgaacgggatgaagagctggcTATCCTccaaaAggccg					",1
+gccagGCCGCGCTggcagAcattc,0
+gccagGCGAGACTgtttcGgattt,0
+"gccatTTGTTTactgttttcactgccgtTAAGGTgattccActgtt					",1
+"gccatTTTACTgctctcgcctgtggttcaTACCATtgccaGtgatt					",1
+"gccccCTGAATctccagacaaccaatatcactTAAATAagtgAtagtc					",1
+gccccCTTTATAagtaatcccccCGGCAAaaatGccgca,0
+"gccccTTACTTgtaggaggtctgaccactTGtGATGATatggttGtagtg					",1
+gccctGCCATGCTctacActtcc,0
+"gccctTTGCCGccggaaagggcatctctttcaGAAAATtgctgAttttc					",1
+gccgcCCTATATTattctCccgca,0
+gccgcCGACCATtcctccgccgacaaTGGCAATttccGttggt,0
+"gccgcCTGACGgtgagggttttcttttgggTATGTTtatctGcgaca					",1
+"gccggTTTCATcacaaccttccgtttCACACTgagagGtaatc					",1
+"gccgtTTGATTtacgcgagcctaatcaatTAACCAttcaAtcaat					",1
+gcctaCAAACGgaacataaccgtaggTCGGATAAggcgTttacg,0
+gcctcTCTGACCTggcggAaccct,0
+gcctcTGGCACgctgaaccCGCAAaaagcGcgcgt,0
+gcctgCTGAAGaacgttgctctgagTGTGATAAaccttTttatt,0
+"gccttTTCCATttctgaacattgccatttgttTACTGTtttcActgcc					",1
+"gcgaaATGCCGgtagaagaagcgtatcgcTATATTcgcaGcggcg					",1
+gcgaaCTTTAAAattgccgctattgCACTATggccgGttggt,0
+"gcgaaTTAAATttaagcgggttcttttatcaGATTATcgttGctatt					",1
+"gcgaaTTACAAgtttcgatgcaatcactatTACTCAaagcaGgttta					",1
+"gcgaaTTGATAataattcaaccgcaacagcagTATTGTataaAtaagg					",1
+gcgagTTAAAGgttcgttatcagagtTGTGATAAgatggAtgaat,0
+gcgatGCTACAATgtggcGcgaag,0
+gcgcaCATACAATccaaActctc,0
+gcgcaCGAAATTgctgcgcgcccagtagtAATCTTTcaatttTagcaa,0
+gcgcaGCCAGATTatcgCccgcc,0
+gcgcaGCTAAAATtgtcttTgtcgt,0
+gcgcaTGCACATactgtcggtattggtGCTCATAcgcaCtccgt,0
+"gcgccCTGAAAacactacagttattcaggGAAATTatttcAccatt					",1
+gcgccGTTGATTcagtgggatgccacctCCGCAAcgctgAaagct,0
+"gcgccTTCTCTttctcggcgctcacttcgccTAAAAAtgccaGagtca					",1
+"gcgccTTTATGcataatgagataaagGAATATcaaatAaaata					",1
+gcgcgTGGCATccgcgaTGCAAccagtGccacg,0
+gcgctTGAACACgtcgaatcaggcaaagccGGTCAAGaagacAtctga,0
+gcggaGAAACCGttgaggtccacgaaGGGCAAAtcgttAtttgc,0
+gcggcGATAAAATaatgcGttgag,0
+gcggcGCTGAAAgagatctaccgCACCACcagcgAaatgc,0
+gcggcGCTGAAAgagatctaccgcacCACCAGcgaaAtgccg,0
+gcggcGGCACTCtcggggatggcacAATCCGTcgggtAtttgt,0
+gcgggCTACAGcagcgatatcttatGCACATAAtggtgActcaa,0
+gcgggCTTTCAActgagttgatttacCGCCGGtggggAatttc,0
+"gcgggTTCTTTtatcagattatcgtTGcTATTCTcaattcAtcgaa					",1
+gcgtaTGAAATTtgtgttagttcaataaAAACAATcagatGagact,0
+"gcgtaTTTCCAtcggagtggaaagtgcaaaCAATATtttttGcgact					",1
+"gcgtcATGGCTggcggcttaatgcTGaTATTATtcgtttAtgtct					",1
+"gcgtcCTGACCaggtggttaacggaaatcTATTTTaccctGaactg					",1
+gcgtcCTGGCTTgtgtatgttcgaCCGCAGcgtaaGgcgcg,0
+"gcgtcTTATCAtgcctacgagcccgcGAATATttgcgAgccgc					",1
+gcgtgGAAAATAtctgaccgttggtTGTCCAAtgaaAttctc,0
+gcgtgGCGAAACTatcgAcatcg,0
+gcgtgGTTGATGactggtattgtgCGCCACtggaaGggccg,0
+"gcgtgTTGAAGgcactataacacgaTGcTAGTATttggcAatcaa					",1
+"gcgttATGGCAttttccaccaatgcagaTGaTAAAATaattctGaaaca					",1
+gcgttCTGCCGataaccgtaaccgaaGATGATAActgacAatggg,0
+gcgttGATAGCATttgtaGgccgg,0
+gcgttTGAAGTTctggacggtgccggaatagAATCAAAaataCttaag,0
+"gcgttTTGCATggttaaggtcaaagaaagaTAGGTTctgatAaaact					",1
+gctaaCTTAAGggttgtggtattacgCCTGATATgatttAacgtg,0
+gctatTCTATGTTattcAtaaca,0
+gctccTTTGCATTtagcaActgac,0
+gctcgGTGGTATgctggagttctcacacAGCCAGcaagcAaggaa,0
+gctctTCCACGTTcactaActgcg,0
+gctgaCTTTATTattcatcattccgttCCTCATggagttGtcggt,0
+"gctgaTTATTAtgccgcgccctgaaaacacTACAGTtattcAgggaa					",1
+"gctgaTTGAAAacacgctacaggcgtgcgttGAATATcatgAtccac					",1
+gctgcCTGAAGcttcgcaacgttaaGCTGATAAacattcGacgca,0
+gctgcGCCACACTgaaatcGactat,0
+gctgcGCGATAATctgaAcggca,0
+"gctgcTTGTACtggtgcaatcctgatttctTAGAGTataaaAgtttt					",1
+"gctgcTTGTACtggtgcaatcctgatttcttaGAGTATaaaaGttttg					",1
+gctggCAGAAGcataaacagaactatGCCGGAAGgcaaaAgcgcg,0
+gctggCGAACATgcgtgacgagttaagcgacGCTCTGAagcgttAatgac,0
+gctggCGCACCTgaaggagaaagagcaTAACAAAgcgtttTaccag,0
+gctggCTTTCATcggcgttagcccaggcCGACACgctggAagttg,0
+gctggTGGCACaggcggctcaTGCCTttcttCtctgg,0
+gctggTGGCATttgctcTGCCAccacGcgcag,0
+gctgtGATATACTtttccCccact,0
+gctgtGCTATTTTagaaaAactta,0
+gctgtTCTATAATgtagaAcaaaa,0
+"gctgtTTTCGAtgaattgagaatagcaacGATAATctgatAaaaga					",1
+gcttaCCTATGCTcacaAtcagt,0
+gcttaTGGCACgcgctgacgcCGCAAtttttCcctcg,0
+gcttcTGCCACacgtttaagcTGCATgaaaTtctcc,0
+gctttCAAACGagaaaatgttgagggTACCATAAtgtaTccagt,0
+gctttCTGGCTTattggcatccaCTGCATcgcacGttgca,0
+"gctttTTGTACtaaataattcgcatttTATGTTtaaaaAttgag					",1
+"gctttTTGTTAatgtctttattttttatgTATTCTtttgtGctttc					",1
+ggaacCTGGAATaaaagcagttgCCGCAGttaaTtttct,0
+"ggaacCTGGAAtaaaagcagttgccgcagtTAATTTtctgcGcttag					",1
+ggaagCGAAATTcgcttgcgaatgtggcttTATCCGTggctcAcctgg,0
+"ggaagCTGGATgaaacattcccgcacttTATCCTccagAtggaa					",1
+ggaagGTGGCAAttgctgccctgcttcgCGTCATgcgtgAaccag,0
+ggaatTAAACCTttttctccatgttTTTCATAgaggGcaacc,0
+ggacaAAAAAGagcgccgcgacctgtTACGATTTaaacAcggcg,0
+ggacaTCTAAACAtccaaAgaagg,0
+ggaccGCCAAACTcgcctGgcggc,0
+"ggacgTTGCCGcggtaacaggcgcaaccgTAATCTgatcttAcccag					",1
+ggactCGAACCAgtgacatacggatTAACAGTccgccGttcta,0
+"ggagaATAACAaccgccgttctcatcgagTAATCTccggAtatcg					",1
+"ggagaTTGCGAaaatccccgcatctTGgGAAACTgcgcGtaacc					",1
+"ggaggATACCAttgctgatatagccagaaaaTATAATgcttcAtcctg					",1
+ggaggCGCACTCccaccatttaaattTAACAGAcaagAccgac,0
+"ggaggTTAACGacctgtaaccaaataatTACGTTtggctAatata					",1
+"ggagtATGAAGtcagagataacaatcaactaaTACTGTtttgttGatttt					",1
+ggataGCTACCGTagccgGgtaac,0
+ggataGTTACGTTtgaatAttgct,0
+ggatgCTGACGcaaattggctatgtGCCGAACGtcgcAcaggc,0
+ggatgGATACAAAgacaGcaagt,0
+ggattGTGGCATtaaagccctgatgtCGCCAGcctttcAaggtt,0
+"ggattTTAGCTcactctttcaacgagcaattgTATATTgttatGtaagc					",1
+"ggattTTGACGaggtgttaatctgttTACAAAaaagcAacata					",1
+"ggattTTTACCcctaagggctgataacgctCATACTggtcAcaacg					",1
+ggcaaGCCAGGCTttattCccggt,0
+ggcaaTAAACCGaatgccaccgtaatGGTCGATgttgAtcgtc,0
+"ggcaaTTCAAAggagaaatcggtaacgcgcatGACACTgactcAgacta					",1
+"ggcaaTTCGCTggtggaacgtaatctggcggTATTAAccctGtaatt					",1
+ggcacACTACATAagggtGtaatt,0
+ggcagGCTAATATtgtgcAccacc,0
+"ggcagTTGCCTtagcgcagaataaatTGaTAACAAatgctGatatt					",1
+ggcatCCTGAAAaggctgagataaataACCCGTgggttAatttt,0
+ggcatTCCAGACTacgacAactac,0
+ggccaCTTGCAGgctatgatagttCTCCAGtcacaGgagaa,0
+ggccaGCCACCCAaaatcGtcgct,0
+ggccaGGACCAAgatgacctggcagAATCGGAccagcAatagc,0
+ggccaTTGACGataatttctggcaaGCCGAATAccgcgActacc,0
+ggccgCCGACAATtcgttAtcatg,0
+"ggcctTTGCATgcgtgctgtcgattggtGATTTTggcgtGgtggc					",1
+ggcgaCCTACACTtatcaGgcact,0
+ggcgaTAAAATAatgcgttgagaatGATCTCAatgcGcaatt,0
+ggcgaTATAAACTgtttGcttca,0
+ggcgaTGAACAAcgaccgtctgaatccGGGCGAAcgttGtgcct,0
+ggcgcTAAACCTtagtccgttggtgcATTCCGAtcgcgAtgctg,0
+ggcgcTGGCACgtaaacttaaTGCCTtaaccAtgccg,0
+"ggcgcTTAATAgcgggtggggattaaTAATCAgatacAaaaag					",1
+"ggcgcTTAATAgcgggtggggattaataatcaGATACAaaaagGgccgc					",1
+"ggcgcTTGATTcaccttgttacagatTGcTATTGTgtgcGcgcgt					",1
+ggcggGATAACTTgccagAgcggc,0
+ggcggTATGCGCTgttgttAatgga,0
+"ggcggTTTTCAcgataagacctcaatGAAAATgataAttgtt					",1
+"ggcggTTTTCAcgataagacctcaatgaaaatGATAATtgttAtgcta					",1
+ggcgtGTTGAAAcactatccatcggttCTGCATtcggaAgatgc,0
+"ggcgtTTGTCTtcaccgtgctaatcatcgcTATCCTggttGtaggc					",1
+"ggctcATAAAGgaaattatcaataagaTAATCTgcagAttatt					",1
+ggctcCTCCAGataattgtcgtcatGCCGGAAAcccctGgcggg,0
+ggctcGTTTATTtatacttttctgacgCGACATaatacGcataa,0
+"ggctcTTATATttatatgagcctcgtttTATGCTttttGttaat					",1
+"ggcttATGGCAagtctgacaggtcattTAGATTgtcaAtatca					",1
+ggcttGTTGATTtccgtagcgtttgCCCCGGagactcGaggga,0
+"ggcttTTCCCAtattgccgcagccaaTAAAACcgattTtcttt					",1
+"gggaaTTGCCTtacagaagaatatccctGACAATggtgTtttaa					",1
+"gggacATGAATtttgacagcgataccaaTGcTATTGAtgtgGcggtg					",1
+gggatGCTGACCAacagtAatatg,0
+"gggcaCTGCATtcagttatctgtgcgcgtTACTCTaactgGcactc					",1
+gggctGCTGAAAaatacagaagtaatcCTCCAAgtgtGtccac,0
+gggctGGCAATTgtccactctatagcacTGGCAATgggcgGtacgg,0
+"ggggaGTGCTTttctgtgcttagcggtTAGAATagtctcAtgact					",1
+gggggCGAAAAAtcatctctatgccTGTCATTtcccGctgaa,0
+ggggtTTTACACTatgaAcggat,0
+gggtaGATACAAAaggggGagaaa,0
+gggtaTAAACATtggctattgactgAATCAATgtattGcaatg,0
+"gggtaTTAAAAgttattcaaaaatgattatcTATCTTtaaccGatacc					",1
+gggtcGCTACCCTgttatGagagg,0
+gggtgCTTGAGGctgtctgtctcAGGCATtagctGaacgg,0
+"gggttCTGGTAgttttgtgtattttagttTGtTAACATtctgctAaatta					",1
+gggttTGAACGTgcgaagcccgaacgtagtGTTCGGAgttctAtgtgc,0
+"gggttTTCGCTatttatgaaaattttccggttTAAGGTgtttccGttctt					",1
+ggtaaCAACCTTgccgatcctgggggcctggTGGCTAAcccgcGaaggc,0
+ggtaaGCGGTATTctgccGgttgt,0
+ggtaaTGCAATAttcttttcaggtcatgcaaGATCTTAcggatAaataa,0
+"ggtaaTTGCTGcaactataaaaattgcgaaTATATAcattaAttttt					",1
+ggtacACTGCATTttgtctAttaca,0
+ggtacGCCAGGCTgctatcGtcagg,0
+ggtagCAAACTGgcgattttactggggccGGGCAGAccgaaAagtcg,0
+ggtatATGACGattatcagaggttaaGGTGATGAtttctcGgcggt,0
+ggtatCAAAATAaaccagcgtataacGTTCAAAtcgaAcataa,0
+ggtatGTTGCTAgccaattaaaaaagaaCGCCATatttAttgat,0
+"ggtatTTACCTtatcgtcttgttaattcagGAGTCTcgcaaAaaatg					",1
+"ggtcaCTACCTttggcgtactggtggtcttTATTGTggcgTtttat					",1
+ggtcaTGAACATctcccgttgtcttttgTTTCCGTagggtGttggc,0
+"ggtcgTTCCCAgttaccgggcatggttGAAGATgcgatGaaagg					",1
+ggtctGCTATTATtgacAtcctc,0
+"ggtgcCTGATGcgacgctggcgcgtctTATCATgcctAcgagc					",1
+ggtgcCTGCCGtacagcaagctgtcGCTGAACAatatgAagcaa,0
+ggtgcTGAACGAgaaattcggcctgcGTTCTATcaccActgtt,0
+"ggtggCTGACGatagcgcgccttgactgGATACTgccttcAcgcaa					",1
+ggtggTGAACAAgcccgcggtactgcTGGCGGAcgaaccGactgg,0
+ggtggTGAACAAgcccgcggtactgctggcGGACGAAccgactGgtaac,0
+"ggttaATCGCAggcgttaccataacgctttTATTGTtcaaGcagga					",1
+ggttaATTGAATagctcattacaCTCCATtaacAcgatg,0
+ggttcGTTTTAAcggttggtgatatCACTATagatAttgat,0
+ggttgGCGACACTgccgaGtccga,0
+"ggttgTTGCCTgatccctttcccggcctgTATCAAcaggccGgttct					",1
+ggtttTGAAAAAgaaggctatgcgaaagacTATCTGTtgattGatgga,0
+ggtttTGCACCGgagctgcagggtgtctaTATCGAAgaacAtgatg,0
+"ggtttTTGATTacaaacaccaacaatctTAGTAAataactAatcta					",1
+"ggtttTTGATTacaaacaccaacaatcttagTAAATAactaAtctaa					",1
+gtaaaTAAACCAtcaataagcaaaaataagtGGTCGGAtgagtAgtaaa,0
+gtaaaTGAAAGTgttacctctgtgcGGTCACAtcctGtgagg,0
+"gtaaaTTTAATttgttcaaaagcttcTAAAGTgcacaAtaggc					",1
+gtaacCCTACATTtcatccAggtaa,0
+gtaatGCCAAGCTctttgGcacgg,0
+gtaatGCCAGGCTgtaatcAggcaa,0
+gtaatGCTGCCAActtactGattta,0
+gtaatTATACATTtgtttAatacc,0
+gtaatTGCACCAtgtagcgccagtatcagcTGTCCTTtgcgGtgctg,0
+"gtacaCTGCATtttgtctattacattTATGCTgaaggAtatcc					",1
+gtactTCCACTTttaccgcaagcacaaAGACAAAttcgAccgcg,0
+gtagcTGAACAGgagggacagctgatagAAACAGAagccActgga,0
+gtaggCCTGATAagcgtagcgcatcAGGCATttatGcgttt,0
+gtaggCCTGATAagcgtagcgcatcAGGCATttgcGccccg,0
+gtaggCCTGATAagcgtagcgcatcAGGCATttgtcAccatt,0
+"gtagtTTGCATtatcgtttttatcgcttCAATCTggtctGacctc					",1
+"gtataTTGTGGcaaataattgggttgggggTACAATtgtgAttgct					",1
+"gtataTTTCAAattgattttgttTGtTATTATttaaGtgagg					",1
+gtatcGCTATATTcgcaGcggcg,0
+gtatcTGCACCTggcctttgatggtTATCCCAccggGcttga,0
+"gtatcTTATTTacttccggtttactaagGAAACTgaatGcacct					",1
+gtatgGCTACATCggctAtaacg,0
+gtatgGGAACGTtggatcccctggggacgaaTATCAAActggGtaaaa,0
+"gtatgTTGCTAgccaattaaaaaagaacgcCATATTtattgAtgatt					",1
+"gtatgTTGCTAgccaattaaaaaagaacgccaTATTTAttgatGattga					",1
+"gtattTTGTATgcgtggttttaaattTATTGAtggtgAatatt					",1
+"gtattTTGTATgcgtggttttaaatttattGATGGTgaatAttaat					",1
+gtcaaCTTTAAAgtctttggcctgacCGCCCTtaccttAatctt,0
+gtcagACTACCTTcaacgAcatga,0
+"gtcagATGCCTgccggtagtgcattTGcTATAGTagggcActttt					",1
+gtcagCGAACATgctatcttggttcGGTCAGTattgAtagtc,0
+gtcagCTTGTGAttattttttgttcGCCCATgtaaTtttca,0
+gtcccGAAACGAacccgtttcgggacaaTTTCCAAagtctGttcac,0
+gtccgGTAAAGaaaaagtgattctgGCCGGCTAacccgGtcaca,0
+"gtccgTTAGATctgttacgaaaatggcacgaGAAAATtgagAcatgg					",1
+"gtccgTTGCTTacctgcaatctaaaggTAAGGAtcttgGagtat					",1
+"gtcgaTTAAGTcattagcagcctaagttaTGcGAAAATgccgGtcttg					",1
+gtcggGCAACATTaccccGgtttt,0
+gtcggGTGGAGAaaaccaaactgaaagCCGCAAacggcGaagat,0
+gtcggGTTTTATgtcgcgtgtaatcacgACCCAAggtgaAtggga,0
+gtcggTGCACTTtaggtgaaaaaggttgAGTCGCAaagcgGaatgc,0
+gtcggTGCACTTtaggtgaaaaaggttgagTCGCAAAgcggaAtgcat,0
+"gtcgtTTTTTTttgaattttataagagcTATAAAaaacgGtgcga					",1
+"gtcgtTTTTTTttgaattttataagagctaTAAAAAacggtGcgaac					",1
+gtctgGATAAAATctttAttgaa,0
+gtctgGATGCCCTgcgtttGatcgt,0
+gtgaaTGACCTCtatgagctggtacTGGCTGAagtagAacagc,0
+gtgagCGACCTTaacaactatcgaaTAGCACAaagtctTgcaat,0
+"gtgatTTTCCTggatgataccgaccccaTATCCTccccgAtgaag					",1
+"gtgcaTTAACTgactacttttttattattgatGAGTATaaacttGacgct					",1
+gtgccGTTGTATgatggtgacagaaCGCCGGtgagtGaaacg,0
+gtgcgCAAAAGccggtagagaaagcGCCAAAAAcagtaAaagca,0
+"gtgcgTTGAAGatatgcgagcacctgTAAAGTggcggGgatca					",1
+"gtgctTTTTAAgattaactataactgattTACCATgatgCccttt					",1
+gtggcGAAACTAtcgacatcgacggttaccaGTTCAAAgtggcGatggc,0
+gtggcGCGAGAATctgtaGgcctg,0
+gtggcGCGAGAATtgtagGcctga,0
+"gtgggATGCAActtccagccagctgacgctTAACGTcatgAcctgg					",1
+gtggtGTGGAATgtatcgcacgcgCTGCATacaccGttgat,0
+gtggtTGGCACgcagctcttcTGCCAccagcGcgatt,0
+"gtggtTTAACAtattaacttcgctctccactTAACTTtttaGttaag					",1
+"gtggtTTTAAAtttattgatggtgaaTATTAAtatttTttcta					",1
+"gtggtTTTAAAtttattgatggtgaatattaaTATTTTttctaAggata					",1
+"gtgtaTTTAAAtatggggtaactctttGATTTTaatgGtgccg					",1
+"gtgtcATGAATagtcattcttcaaacatgTAGTCTgactaAtggaa					",1
+gtgtcGATAGCCTctactcCatcgt,0
+gttaaGCGAGATTttgtGcctgg,0
+gttagCGCCCTTttcatccctgtctgaaattTCTCAAAttctaAaaatc,0
+"gttagTTTAATaaaatattgaaagtgacctgTAATAAcagttGttgtt					",1
+gttatGCGAAAATgccgGtcttg,0
+"gttatTTGCTCttttgcgtctatagtCATGATgtcaaAtgaac					",1
+gttcaTGAACTAtttgcagcagcaggcTGGCGAAggtactGaagaa,0
+gttctGCCACGTTacaatActctt,0
+gttgaCTTTTAAagttgattatatCGCTACggggaAagcga,0
+gttgcCGAACGTattgatattgtgttagaTATCCTTgtggcAggcga,0
+gttgcGCTAAAAAaatgGccaat,0
+gttgcTGAACAAgtgaacgaccgcgtctgatTTTCTGAtttaTttcgc,0
+gttgcTGAACTGaccggcggtgacagcctgaAATCCAAcatccAgctgg,0
+gttggCCTATATTagcatGgaatg,0
+gttggCTGGCTTccggcacacacgCCACGTctggcGcaggt,0
+gttggCTTCAGgctccatgcctgcgGCTGATTAtgccActata,0
+gttggCTTTTATcaggcggcgatcccgACCTATtacgGcggta,0
+"gttggTTCAGTaaactccaggcaagttagtttTAAAAAatgaCtcact					",1
+"gttggTTGACAttcatatgaaaaaaatCATAATtccatcAtgttt					",1
+gttgtCGCACGAgtctgaaaaagatgccTGTCGAAacgaGcactt,0
+gttgtCTGGCTAagtggcataacattCCGCAGggtgTttcgt,0
+"gttgtTTGCATataaccttctaaacgTATGGAcatctAaacat					",1
+gtttcGATGCAATcactAttact,0
+gtttgCTCCAGcaaggcgatgcgcttGCTGACGAacgccGgtgaa,0
+gtttgCTTTAAAatctgaccatcCGCCTTtgcaaAaattt,0
+gtttgCTTTTAAtaatcataattACCCACcagaGtgtga,0
+gtttgCTTTTAAtaatcataattaccCACCAGagtgtGatatg,0
+gtttgGCTAATATagggcAactcc,0
+"gtttgTTATTAtttaagtgaggtatataatTAGAGTccgttAtcaat					",1
+"gttttATGAATactcctgaagaggtgtaTAACATaatgGtacaa					",1
+gttttGAAAATTcgtgttcaacgatgAATCTGTggataAtacgc,0
+gttttTCTAAATAttgaCttaac,0
+gttttTTGCATatcaattattTGCATgatgaAgggaa,0
+"gttttTTGTATcaggaagatgttcagagGAATATttagAcatcg					",1
+"gttttTTGTATcaggaagatgttcagaggaaTATTTAgacatcGttata					",1
+gttttTTTAAGctagtgagtacacgGCTGCAGAattccGctaca,0
+"gttttTTTACTcggcgcttgattcacctTGtTACAGAttgctAttgtg					",1
+taaaaACGACACTtaacaAgtacc,0
+"taaaaATCAAGtttccttgcgcgttggcgcgTAAAATagcgcGcaagc					",1
+"taaaaATGGCAaaagccatgatttaacTAATGTttagtAttaat					",1
+taaaaGCTAGGAAcgacGcgatt,0
+"taaaaTTCGCCaacgacgattattcggcgtTACACTtatcActcat					",1
+"taaaaTTGACAgcaattttattcataTAAAGAatgaAtcgca					",1
+taaacCTGGTAAagaactgcgcgatcgCGCCAAtatttAcggtt,0
+taaacGAAACCAtaaaaatgaaatgctgtTTTCATAaaaaAtaaaa,0
+"taaacTTGACGctttcaaaataaaaaGAAAATcgaaGcattc					",1
+"taaagATTAAAaatattttcagtgaaTATAAAattattGctgtt					",1
+taaagCGAAAAAactgttcagcgtggaaGATCAAAttcgtGccacc,0
+taaagTGCAAATcggctcggcgaccacaaTATCAAAgcggctAtacgg,0
+taaagTGGCATcctccCGCATcctctcTgataa,0
+taaatCTGGCAActtcggtgatgaCGCCTTtttttcAcgagc,0
+taaatTGAAATAtatattgatgtagtgaatgTATCTTAggtaaAtaata,0
+taacaGCTAAAATtagtcGctttt,0
+taacaTGCAATTcacattgccgaaagcgTGTCCGAtatcGcacaa,0
+"taacaTTTATAaattaacatctggctgcgccaGAGATTacgtcTctgag					",1
+taaccGCGACCTTacgagGataac,0
+"taaccTTTATTgatatgtactacgtatctTATTTActtccGgttta					",1
+taacgGACAGACTattgaGcctta,0
+taacgTAAACATtaagaatattcatcttgtTATCTGTctgtAtttta,0
+"taacgTTGCGCgtgacaaacggtcagagacTAACGTactcGtcatc					",1
+taactGCGTCACTttttttGctgtt,0
+taagaGCTATAAAaaacgGtgcga,0
+taagcCGCACCAgcaccaatggataATTCAGAagcaGttgcg,0
+taagcGCTAACTTaaggGttgtg,0
+taaggGCTATATTagaatAacaca,0
+"taaggTTGCCAttttgtgactcacaacGAAGATtcacGcttcg					",1
+"taagtTTGCTAttgaccaggaaaaactgGAAAAAatgatcGgcgat					",1
+"taagtTTGTTCagaaacgatccgggaTACACTgcaacAttaaa					",1
+taataAATACCCTgtggTttaac,0
+taataCTGGATTgcaagattgcaCTCCGTtatcaGtaagc,0
+taataTCTAACATttgttTctcct,0
+"taataTTGAGTttaaggctgttctcgctTACGAAccgaaGaagta					",1
+taatcACCAGACTaatgAttcca,0
+"taatcATGAACaaatcattcgccatgatTATAATatttAtccct					",1
+taatcCTGGAATtagcaagaaaaaCGCCAGattgtcGcgaaa,0
+taatcGCCACATTaacactGctcgt,0
+taatgGCGAGAATggtttAatgaa,0
+taatgTATGCACTttgtGttaga,0
+taattACTAGACTggcccCctgaa,0
+taattGCAACTTtactcgtccttccgcTTTCAGTagtgtGtcatc,0
+taattGTTTTATtaattagtacccCTCCAGtgttctGgaggg,0
+taattTGAACTTaaccggccaggcaccGTACAAActgaaAattgg,0
+taattTGAACTTaaccggccaggcaccgtacAAACTGAaaattGgtgcg,0
+"tacaaATGCCGcgcggcattccggtgggTACGCTggcgAttggt					",1
+tacaaTCCAAACTctcttCtccct,0
+tacacTCCACGCTttacttAagtct,0
+tacagCCTGAAAgatgacgagtacaAGGCATaggcaAatatg,0
+tacatCGACCTGgtcaaaattatccTTTCTAAaccgaAggtga,0
+"taccaTTGCCAgtgattatctacgccagcgTAAACTcggcGtgcgc					",1
+tacccTCTACCATtaggctAattgc,0
+taccgCCTGAAAgtccgctctggCAACATccacGcgtga,0
+taccgCCTGAAAgtccgctctggcaacATCCACgcgtgAcgata,0
+"taccgTTTCCAttgcagcttaacaacaaaTATTTAggtttcGtcctg					",1
+tacctGGTACATTgtggcGgcggc,0
+tacgaTGAAATTtttggccgtaaagattacaTCTCTATcgattCcccga,0
+"tacgcATCGCActcaagcctgacagaaaaTATGCTgtaagGctcat					",1
+"tacgcATGACCggcggcggatttggcggctgTATCGTcgcgctGatccc					",1
+"tacgcATGACGacgctcaactgcagcgGACAATgccgTttaca					",1
+"tacgcTTATCAggcctacgaggatggtgcaaTATATTgaatttAagcga					",1
+tacggTGAAATGgactgaatctctcgatacaTTTCTGAatatGccaac,0
+"tacggTTCCATtctgatcgtggtgatgctggcGATTATtttcAtcttt					",1
+"tacgtCTGCCTgcaaactatggtcgccgtTATAATgaagCcttta					",1
+"tacgtTTGGCTaatatagggcaactccggGACGATttaaAccaca					",1
+tactcGACACCTgctttacgggtgaaaaaAATCAATatagcActtcg,0
+tactcGCTAAAAAttattcAgcggg,0
+tactcGGAAATTtgtaagtaatatttaactGCTCAATacatctAacctt,0
+"tactcTTACTAcctgtattcaccagtaagagTAGTAAtcagAtcagt					",1
+tactgACCACGCTcggtcAtatta,0
+tactgGAAACATtcatttttgccacctttTATCATTgcccctAtgtgt,0
+"tactgGTGCAAtcctgatttcttagagTATAAAagttttGtgcat					",1
+tacttTTTTAAAtggtttttacctgtCGGCATccgctcAaaacg,0
+"tagaaTTTATTtgataatccgctcactttTAACCTgattttTaaaac					",1
+tagatTAACCTTcgctattttctcactctgTGTCGAAtataTttatt,0
+tagcaTCGACATTttgccGaagcg,0
+tagccATTGAAAaccagccgtaagtAGCCAGgtgttGagcca,0
+tagccCTGACGatcacttacagttcaGACGTTTAcccaTcttgc,0
+"tagcgATGCAAgaacatactgaatcaTACAAAcacattAaacaa					",1
+tagcgGCGACGATttgccAgacgc,0
+tagcgGGAAATTtgtggcataaatcgaAATCAGTtagttGatgaa,0
+tagcgTATATACTtcttaAacaat,0
+tagcgTTGAAGaaaaggatttgataaTCCGCAAAatttGcacaa,0
+tagctGCGACATAttcatGaaatc,0
+"taggaTTGTGAggcatgttgtgttgtcctTATTGTtttaTttaga					",1
+taggcTGAAAAAtggtgcgatcggactGGTCGTAccacaAtcggc,0
+taggcTTTGCATttggcaaaattttgAGGCATtttgccGacatc,0
+tagtgCGAAAAAaagtccgccagcagatgaAGTCGGAagcggGgcgat,0
+tagtgCTTGTGAactggcgttacAGACATcgggaAgcagg,0
+tagtgTCTACTCAtctgAcggca,0
+tataaCAAACCTtctttggatgtttagaTGTCCATacgtttAgaagg,0
+tataaTATAGCCTgtgctAtatct,0
+"tataaTTAGAGtccgttatcaatgctaaaTATTCTaatcAttatg					",1
+"tatacTTTTCTgacgcgacataatacgcaTAAAATaaggCttacg					",1
+tatagCCTGTGCTatatctGtatgt,0
+tatcaCTGTAATtcgatatttatgagCAGCATcgaaaAatagc,0
+tatcaCTTGCAGaaatgcggtgccaCGCCTTgctccGtaact,0
+"tatcaTTTCCTtatggttgcagataaaacaTATTATatttttAtgtgt					",1
+tatccGGTACACTgcatttTgtcta,0
+"tatcgATCAACtcattctcatttttTGcTAAAGTcggcAtaaat					",1
+tatcgCTGGCTTtattttattaaCCCCGTatagtGcagcg,0
+tatctGCGACACTcgcaGcaccg,0
+tatctGCGACGTTtattttTattta,0
+"tatctTTACATttagccaaactaaatgttaccTAAGGAaggtGcgaac					",1
+tatgaCGCACTGatattattcatcaaataaTAACAAAatagccAttgca,0
+tatgaTAAACTCcagccaactttatttcaTATCATTgaggGcctgt,0
+tatgcGTTGATTccattaaaaatCAACATattacAaaata,0
+tatgcTTGAAGtgatgtcttctattGACGGTTAtaaaaAcctgt,0
+"tatggATTATTggctcactcttactcagcctTATTGTggcaAtggtc					",1
+tatggTCCACATAaggaAtacag,0
+"tatggTTGTAGtggatgtaaaaacatttagCAATATgtttAcaata					",1
+tatgtCGCCCTAtaactatacatgaTGTCAATaagagAcaaag,0
+"tatgtTTAAAAaatctgttttatttgcaacacTATTATctggcGttatg					",1
+"tattaATACAAccttatctgcgacagatttTATTCTctggAtatat					",1
+tattaGCAACATTtaacAtttat,0
+"tattaTTGATGagtataaacttgacgctttCAAAATaaaaaGaaaat					",1
+tattcATAAAGcaaattaataaatctGATGAATAtgttaAccttc,0
+tattcTCTTCGTTaacttAtaatt,0
+tattcTGAAAATcatttgttaatggcattTTTCAGTtttgTctttc,0
+"tattcTTAAAAtgtggtaatttattaaatctgTAATAAaagcGtaaac					",1
+"tattcTTCACTccgaagaaatacTGgTAATTTaatctAaataa					",1
+"tattcTTCACTccgaagaaatactggtaattTAATCTaaataAtgccc					",1
+"tattcTTGTTGctgggttggcggtgttTATTTTgatgaGccgga					",1
+tattgGCTATATTcaatgGacgcg,0
+"tatttATGCAAtcagacagcatattgcaTAAATAatcagAtctgt					",1
+"tatttATGCAAtcagacagcatattgcataaaTAATCAgatctGtatca					",1
+tatttGATAAATTaggaAtttaa,0
+tatttGATAAGTTtgctcGcggga,0
+tatttGCAACACTattaTctggc,0
+"tatttTTTCCTggcccagctttctttatgctgTATCGAtacaccAaagag					",1
+"tatttTTTGCGactccatgtccatataattTATCCTtaaatAttcat					",1
+tcaaaCTGGAAGaagcacaatagAACCATcgatcAtctgg,0
+tcaacCAAACTTatctgataacactaaATTCGAAagaatGcgtac,0
+tcaacGTTGCGTgaattgaatcgCAGCATgcaggGcttcc,0
+tcaacTGAAACAgttagcgcggtattaattaGCTCAATaattaGtgtat,0
+tcaagCCTGATAaaactgcttaacaaatCAGCATaactcAttaat,0
+tcaatGCTAAATAttctaAtcatt,0
+"tcaatTTAAAAacataacttattgcgaTATGGTtacattAagggc					",1
+"tcaatTTACCAtgattctgatatTGaCAATCTaaatgAcctgt					",1
+tcacaCTTTTTAgtgaaaaataaaaAACCATattaaAagact,0
+tcacaCTTTTTAgtgaaaaataaaaaaCCATATtaaaaGacttt,0
+tcacaTCTAAATAcaatGtataa,0
+tcaccATAACGcgtgcttacgctaatGCCGGTGGtcttGctgac,0
+"tcaccCTGCAAatctctgtcacttctaaTATAAAaatagGgagaa					",1
+"tcaccCTGCAAatctctgtcacttctaataTAAAAAtagggAgaaat					",1
+tcaccTGCAAATgcactgttggaagaggtTATCCGAcataAcgacc,0
+"tcagaTTGGCTatcagtatggctacatcggcTATAACgcgacGgtgat					",1
+tcagcCTGCCGgtaaaatttatctgGCTGAAACgccgtGgttta,0
+tcagcTTTACACTttattGttttg,0
+"tcaggCTGTATgtatcggttctgcgctTAACATtacgGcgaaa					",1
+tcaggGCGACAATcatcGcctta,0
+tcaggGCTATACTtagcAcactt,0
+tcaggTAAACTAtcagctgatggttTATCTATacaaaAaagga,0
+tcaggTAAACTAtcagctgatggtttatctATACAAAaaaggAgtcgg,0
+tcaggTCTATATTtgtgttGaatat,0
+tcataGTGGCAAaggaagaattccCGCCAAcaccAtctct,0
+tcataTGAAAGTaccaattgatataTATCAAAcaaaAtaacc,0
+tcataTGAAAGTaccaattgatatatatcAAACAAAataaCcctga,0
+"tcataTTGAGCgcggcgcagagcagtgcgaagTATTAAtggcGctacc					",1
+"tcatcCTGGAAagtcacatcgatgcgaattGATAATaattcAaccgc					",1
+tcatcGCTATCCTggttGtaggc,0
+tcatcTCTACGCTagtgttAatcct,0
+tcatgCCTACAAAtctgtAcgcga,0
+tcattGCCAACCTttcctTttctt,0
+tcattTACACTTtttacgaaatcatggGATCACTaacaaAatatc,0
+"tcattTTGCAGtatccttaagatattccttaTATCTTcaggaGatcgt					",1
+"tcattTTTCCGgtgccattcaccgggtagaTACAAAaggggGagaaa					",1
+"tcattTTTCTTcggcataatgaatgtctGACTCTcaatAttttt					",1
+tccacGCTTTACTtaagTctaga,0
+tccagGTTGAGAtggctaaattccagtCCATATtctaAccagg,0
+tccagTCCATATTctaaccAggagg,0
+tccatGCTAATATaggccAacgca,0
+tcccgGCGACACTttccttTattac,0
+"tcccgTTAAGGcaactatatacctcataattTATATTcccggGaattc					",1
+"tcccgTTGATGttgaaaatcccggtcaGAAGATcgggAttttt					",1
+"tccctTTTAATttttcacttctaaaagcagTATGATgtcatAaagtt					",1
+tccgcCGAACAAgcgtattgtgaggaTATCAAAatgacAccttt,0
+tccgcTAAAAATacttctgaattcgcTGTCCAAagataAaaact,0
+tccggCAAACCTgcctgcaagtcgagcctTGTCTGAtttatcAgcgag,0
+tccggCCTACAAAaatcttGccaat,0
+tccggGATACACTgcaacAttaaa,0
+tccgtACTAAAATctgatAccagt,0
+tcctcACTGCCCTaaaggAtgggg,0
+tcctcGAAACCAtcaacccggatatctGGGCAGAagagAtcgcc,0
+tcctcGCGAAAATcctgcAttaat,0
+tcctcTGAAATGcctgagttgttagggaTAACAGAccgtAttctg,0
+tcctgATGACGgtggatgtgactatcGCTGAAGAtgtgaAgtcgc,0
+tcctgGCTACTATttcgcAagagc,0
+"tcgaaCTGCGTaaccgcgatcgcgagcgTAAGCTgatcaAaaaga					",1
+tcgatGTTGCAGgatatccgcgcgctgCGCCACactgaAatcga,0
+tcgatTTTGATTttgggaaatcaacaCGGCATaattAtgtca,0
+tcgcaCTGGCTAttatgcaaaattCGCCATcttcaActaag,0
+tcgcaGCAACTTgacgtgaaaatcatTATCATTtccttAtggtt,0
+"tcgccATGATTataatatttatccctGATATTtgtctGgttct					",1
+tcgccGATATGCTtagtGtggct,0
+tcgccTCTATGTTtatcGtgata,0
+tcgcgTAAACCAgcgattgcgcctttaccAAACAGAatgcgGgttgg,0
+tcggaGTGTAAAcatcctgctatttcCGCCATtaataGcggaa,0
+tcggcATCAAGtttgaagagcgttttGCTGGCAAgaccAtcgtg,0
+"tcggcGTGACTgcgggcgcatcggctccggaTATTCTggtgcAgaatg					",1
+tcggcGTTACACTtatcActcat,0
+tcggcGTTGAGActtccttcagacgACGCATacagGtatgt,0
+tcgggATTGTAAtgtcaatccacACCCACaggaaAatgtt,0
+tcgggATTGTAAtgtcaatccacacCCACAGgaaaAtgttg,0
+tcgggTGAAAATagttgttactgtttctgatGGACAGTcacttcAtttat,0
+tcgggTGATCTTtatggacgagggtaaaatTGTCGAAgactcGccgaa,0
+"tcgtcTTCCATaaaccaaggcgattaagattTATACAtaatGcgctg					",1
+tcgttGCTATTCTcaattcAtcgaa,0
+tcgttTAACCTTtattgatatgtactacgTATCTTAtttaCttccg,0
+tctaaATGAAGgcgcgactattaccGACGAAGCctcgGcgctg,0
+tctatCGAACACatttttcgccagtgtggcGTTCAGTaagatAaagcc,0
+tctatTTTACCCTgaactGacgat,0
+tctcaGGAAAACcaagaagatacaaAATCAAAgcctaAtcaat,0
+"tctccCTGCAAcctttacccccttttggaTAGAATataatcGatgaa					",1
+tctcgGCGACCATcatccGcgaac,0
+tctcgGCTACGAAaccccAagtac,0
+tctcgGTGGCAAaaccaatttttaCGCCATtgctgAttatt,0
+"tctcgTTACCAgcgccgccactacggcggtGATACAgatgAcgatc					",1
+"tctcgTTACCAgcgccgccactacggcggTGaTACAGAtgacgAtcagg					",1
+tctctCCTACAATttctaActgta,0
+"tctctTTATCAgcagtaaactagtgggTATTCAtcccccTacctc					",1
+tctgaTGAACGTaacagcaaaaagcgaGGTCGCTccgtcAattat,0
+tctgaTGAACGTcctttttcagcgtgaatgATTCACAgggtGtatgc,0
+tctgaTTTGCAAattatcgtgttatCGCCAGgctttAggagg,0
+tctgcGGACCTTcgtccgaaactctacaaAGTCGATtgatcAtacag,0
+tctgcGTTTTAAttcagcattcacCGCCAAaagcgActaat,0
+tctgcTACACTTtctgagtgtttccgtTAACGAAtgagGtagct,0
+tctgcTTTGCATacctgccgatgttatACCCATctcgGcgctt,0
+"tctggATGACAcctttatgttgttcagtagtTATGGTattaAtatgc					",1
+tctggCCTGAAAtgccgttattacaatcCGGCAAtccatAcggca,0
+tctggGGAACACgattgctaagggataTTTCAAAaaacctGagtca,0
+"tctggTTGCTGaacaagtgaacgaccgcgtctGATTTTctgaTttatt					",1
+tctggTTTACAATgtgcGcacga,0
+tctgtCTTTCAAaccgacgcagctattaACGCATgataAttgag,0
+tctgtGAAAACTgtgatgaaaatctgtgATTCAAAcaggttAttttg,0
+tctgtGCTAAAAAtgttaGtttaa,0
+tcttaGCGACGATttcgAcgact,0
+"tcttcTTCGTCgtaacttaatgtatttattTAAAATacccccTgaaaa					",1
+"tcttcTTGTCAacatcgcgacaactttcgTAAAACatccctAccctg					",1
+tcttgCTGACGgcaacttccgcaccgTCCGATTTgcctgAggcca,0
+tcttgCTTTAAAatgaataatattaAGCCACttattcAcgaat,0
+tctttTGAACCTaatcttgcgtatactccTCTCATAtctgAtaaga,0
+"tctttTTCCTTacgaactgtttctgtgatGAATATattctcActgaa					",1
+"tctttTTCCTTacgaactgtttctgtgatgaaTATATTctcactGaacac					",1
+tctttTTTGAAAtttatcggtggcAGCCGTtagtAttcgc,0
+"tgaaaATGACGtctatctatacccccctaTATTTTattcAtcata					",1
+tgaaaCTTTAATtcgcgaagccctacgCGCCGCgttatGaggta,0
+tgaaaGTTAGATTgatgtGcgtca,0
+tgaacGATATATTtttacAaaata,0
+tgaacGCCACACTggcgaAaaatg,0
+tgaagGTTGCGAtctggatttcgtaCCGCACgaagcGcgtca,0
+"tgaatATAAAAttattgctgtttctatTAAAAAgatgTcctgg					",1
+tgaatATTGAAAatcatagttgcctCTCTATttcgTtcaag,0
+tgaatGCTGAATTaaaacGcagaa,0
+"tgaatTTGCTGgctctcagggctggcgataTAAACTgtttGcttca					",1
+"tgacaCTGAAAaatcctaccgcgtattatctGACCATtgcctAtctgg					",1
+"tgacaCTGACTcagactaaaataagaggcgggTAGTCTagtgccGgggcg					",1
+tgacaGAAAATAtgctgtaaggctcaTATCAAAaaccGccatt,0
+tgaccGATACCATcgctgAtatgt,0
+tgacgCTCAAGcagttgtgcctctttGATGGTGAaatcAccatg,0
+"tgactTTGCATtctgttaacaaacgcggTATAACaaaccTtcttt					",1
+"tgactTTGCATtctgttaacaaacgcggtaTAACAAaccttCtttgg					",1
+tgactTTTGCATgggcgacagataacgaCGCCTTacgccAtctct,0
+"tgagaTTGTTAaagatatattacagattaaTAATATtcttaAaatgt					",1
+tgagcCTTGCGAtgcctaaagtcAGCCAGgctgttGcctga,0
+tgagtATAACGcaaatttgctactggTCCGATGGgtgcaAtggtc,0
+tgagtCTGGCATggcgcaaatttggcagCGGCAAagcgGtagaa,0
+tgagtTTTGAATacattgaaaacCGCCAGcggaaAcgctg,0
+"tgataATGCAAattataggcgatgtccCACAATtgaccGcagcc					",1
+tgataCTTGTATcaagaattgttCCCTGTtcccaGggtaa,0
+tgataGCTACACCgttaAcatag,0
+tgataGCTACCCTtaaagActgac,0
+"tgataGTGCCTggtttaatcagagcttTATTATctgcgAcgttt					",1
+"tgataTTGGAAatatctgatttgcaaatTATCGTgttatcGccagg					",1
+"tgataTTTAACccgaacattcctgatacaGACTATtaatAcaacc					",1
+"tgataTTTAACccgaacattcctgatacagacTATTAAtacaAcctta					",1
+tgatcGATGAAAatggcgtccctttCAGCATcgacAttccc,0
+tgatcGTTGATGgcgcaatttctgCGCCATcgcaaAaaaaa,0
+"tgatcTTATTTgtgattattaccagacTAACATacctGtatgc					",1
+"tgatgATGAATcatcagtaaaatctattCATTATctcaAtcagg					",1
+"tgatgATGAATtcatctgtgctaaaaaTGtTAGTTTaataaAatatt					",1
+tgatgCTCAAGttaaactccacgcttGCCGATAGccaaccGcagaa,0
+"tgatgCTGCCAacttactgatttagtgTATGATggtgTttttg					",1
+"tgatgCTGGCAttaactaccgacgtttTACTCTgccaCttatc					",1
+tgatgGCTGGGTTcgggAttgta,0
+"tgatgTTGAAAatcccggtcagaagatcggGATTTTttttgAtgtat					",1
+"tgattTTGGCGtggtggcgttgttcggtaacGATGATttccGcaccc					",1
+"tgattTTTAAAacaacaacgcttattaaaaaaTAATGAgtaatAgcctg					",1
+"tgattTTTATGtctgtactggcgggcaatatgTATGAAagcatcGgtttc					",1
+"tgattTTTATTgattgctgagttttgaaTACATTgaaaAccgcc					",1
+tgcaaATTAAGgtcatatatagccttATCGATAAcatgGttaat,0
+tgcaaCAAACTAgtttgggttttagctAGTCCTTcatgGcggat,0
+"tgcacATGAATaccaaatcagatgaaggctgGAACATgacgGcgttt					",1
+tgcacTGGCAAttattgcTGCATtgacgAtggga,0
+tgcagTGAACCCgaacattcgtgacgacGAACTGAccgccAttgag,0
+tgcatAAAAAGcagcggctgacgtctTCCGACGTtggccGttttt,0
+tgcatCTTTATTgaccttcccacgccCGGCGTgcagcAtaaaa,0
+tgcatTGAAAAAatcttcagatagaTATCATTctcctGaacaa,0
+tgcatTGACCCAgggttggtaaaaaatAATCATAgggaGtaaaa,0
+"tgcatTTGAAAcattacgctttgcaaagGATTTTcatggAacgtg					",1
+tgccaGCTACATCccggcAcacgc,0
+tgccaGGAAATTtggcattttaacagtcccTGTCCGTgcaaTtttgt,0
+tgccaTTGAAGggccgctggcgtttGCCGAGAAgcgcgAtccgg,0
+tgcccGCTAAATTtaacgAcaagg,0
+tgccgGGAAATTacactgttcccggttTGTCCGTcggatAattca,0
+tgccgTGAAATTcattgttttgataatcgcTGGCAGAagcatAaacag,0
+tgcctGGAACAAttattggtaatggAGTCGTAgtcgGcgcca,0
+tgcgcTCGACGTTcatttAagtaa,0
+tgcggGTGGTATtgacagaagaagaaCGCCGGgcggtGaatcc,0
+"tgcgtATGATAgcgtcactggagttgcgctctTACCCTtataGccatt					",1
+"tgctaATGCTTtacatctccttcgcgtttgtaTATTTTctttAtcact					",1
+tgctaCCTAAATTgccaActaaa,0
+"tgctaTTGTGTgcgcgcgtcgaatgaccgtTAATATtctctGgtttt					",1
+tgctcGATAAGCTgccggAtgtgg,0
+tgctgCACACTAttctaaaagccgcataaTATCTTAgcaaGctaat,0
+tgctgGCGAGAATtattcAtcccc,0
+"tgcttTTGCATgaacattgcgcctttatgCATAATgagatAaagga					",1
+"tgcttTTGCATgaacattgcgcctttatgcaTAATGAgataaAggaat					",1
+tggaaGCGACGATtttggGtggct,0
+tggagGATACCATtgctgAtatag,0
+tggagGGAAATAcaaccgacagatgtatgtaAGGCCAAcgtgCtcaaa,0
+"tggagTTGGAGacttgtttaatgtgtttgTATGATtcagtAtgttc					",1
+tggatGGAAATCgcgctggtcgattactgTTTCAAAgtgttAatcag,0
+"tggcaATGCAAggccgccgacaattcgtTATCATgcccGctaaa					",1
+"tggcaATGTAAatcgaaatcatgttcactttgTATCATgccgCtttat					",1
+"tggcaTTGATGttcataaggccaaagacgccGATGATttatttGataaa					",1
+tggccTGAAAGAcatcgcaatgccgaaGGTCAAAggttaAaagaa,0
+tggccTGAAATGccgttattacaatccggcAATCCATacggcAgcttt,0
+tggcgGCTACAAAcactccGgcatt,0
+"tggcgTTGGCCtgaagaaagcgcaggcGATTGTcagttAtcgcg					",1
+tggctATGGAAAtaccctcgacccgagCCGCAAaagtGtgaaa,0
+tggctGCTATTCTatgttAttcat,0
+tggctGGAACAGaaagagatcccggatcccTATCGTAaaagtcAggacg,0
+tgggaTGAATTTtcgccgtctggatatcgaaGGTCACAgaatGctgat,0
+tgggaTTTACGCTtctgGtcgga,0
+"tggggCTGGATcgggtggtttaaatattggcTATATTcaatgGacgcg					",1
+"tgggtTTTCTGgcgggtaactgcgtgggggTAATTTcagaAtatgg					",1
+tggtaGGAACTGgctgtgcattatcggcggtTGTCGCTgcctGctgtg,0
+tggtcACTACCTTtggcGtactg,0
+"tggtcATGAAGcgcaataaaaccgtaTAACATctctctGtgcgc					",1
+tggtcCTGAAGggttaatgccttcgGACGATACcctgaAaaact,0
+tggtcGCCACCCTgacagAattgt,0
+tggtgAAAAAGcattgtgagatctggGCCGGTGActaaGccggg,0
+tggtgCGAAATTataataaaaaacaGTTCTGAtttttAtaaaa,0
+tggtgCTGGTTAtcagcactgaaggCGACACcgacGtgaag,0
+"tggtgTTGCTGcgccagcgcgctcatctgggtGAAAATagtgGtgcca					",1
+tggttTTTACATTttacGcaagg,0
+tgtaaTGAACATcgaatataactaagTTTCTGAacaaCtcacg,0
+"tgtaaTTGTCAtcaaaggcgggaatacTGtTAAGATtcataGattac					",1
+"tgtatCTGATTattaatccccacccgcTATTAAgcgcccGgcgcg					",1
+tgtatGCTACGCAgaagttAtcaag,0
+tgtatTTAAAGtgcaaaaattcaattGCTAATAAgttacAtttta,0
+"tgtatTTTAGTttgttaacattcTGcTAAATTatcgtGggcca					",1
+"tgtatTTTAGTttgttaacattctgctaaatTATCGTgggccAtcggt					",1
+tgtcaGGAACGTtcggatgaaaattGATCCTTtccaaGcttag,0
+tgtcaGGAACGTtcggatgaaaattgatccTTTCCAAgcttaGaccag,0
+"tgtcaTTACAGgcggaccggaccaaattccTAAAATcaaacAatact					",1
+tgtcgCGAAAAAcgagatctctcctacaaTTTCTAActgtaActcct,0
+tgtcgCTGGTGAtggttattgccAGCCAGcttattGctcgt,0
+tgtctGCCGAGCTgtctcGtctgg,0
+tgtctGGAACCTggccgatgatatttgTGACATTagcgcGgtttt,0
+tgtctTATACATAaccctTtctcc,0
+"tgtctTTTTCTtcttatcaaaaaagcaaTATTTTcagttTttcta					",1
+tgtgaGTTTAATattatgttgactcACTCATtgatccAatacc,0
+"tgtgaTTGATGtcggcatcaaccgtctgGAAAATggcaaAgttgt					",1
+"tgtgaTTGCTTttgcatgaacattgcgccttTATGCAtaatgAgataa					",1
+tgtgcACCACACTaaaaAtatcg,0
+tgtgcGCTAAATAcgtttGaatat,0
+tgtgcGTTGATGgggaatggcagACCCTTaattGtgggg,0
+tgtgcTGACCGAtaccatcgctgataTGTCTCAggacAccagc,0
+tgtgcTGGCATcgccgcTGCATgaactcAccaaa,0
+tgtgcTTGCACcacctgccacTGCATcgttcGtgaag,0
+tgtggCTAACGcagttgtcgcttggGCAGAACAaaatctGaaaat,0
+tgtggTCTGCTATtattgAcatcc,0
+"tgtggTTTTTAgtgctgggcgctattgagTATTTTgttctGcgctt					",1
+tgtgtGCCACACTtgttgAcgtta,0
+tgttaCTGGAAAatgttcggtcgtatCACCAAagaagAtattg,0
+"tgttaTTTTTTcctggcccagctttcttTATGCTgtatcGataca					",1
+tgttcGCCGAAATactgAccacg,0
+tgttgTGAAACGgtaatatttgatgactggTTTCAAAaattttGcaggc,0
+"tgttgTTGATTgagaacaaataagtttaTGtGAAAAAtatatAaatac					",1
+"tgttgTTGGTGatcgttggctttatcTACAGTctgtgGtccca					",1
+tgtttCCTACCCTttaatAtcacc,0
+tgtttCTGGAAAgcggctcgcaataacCACCAAcataAtgcgg,0
+tgtttGCTACCTAaattGccaac,0
+tgtttGTTGAAAtttcgtaaaaatAGCCAGatagAcatcg,0
+tgtttTTCACGctttcttctgtcctGACGATCTttatgAgtgat,0
+ttaaaCGAACTGgactctgccagtaTGACAAAtgccttCatact,0
+ttaaaGATATATTacagAttaat,0
+ttaaaGCTAAGTTcggactGaaagg,0
+ttaaaGTTTCAAcggcggcgtaagcCGCCATaaaaAtccag,0
+ttaaaTTCACGgtcggtgcactttaGGTGAAAAaggttGagtcg,0
+"ttaaaTTGCCAatcttaagcagatgaaaaccaTACATTttagtGaacca					",1
+"ttaaaTTGTTAaattaacgccctccagTACACAatacttCacacg					",1
+"ttaaaTTGTTAaattaacgccctccagtaCACAATacttcAcacgt					",1
+"ttaaaTTTAAGcgggttcttttatcagatTATCGTtgctAttctc					",1
+"ttaacCTGATTtttaaaacaacaacgctTATTAAaaaatAatgag					",1
+ttaacCTGGTTTatggtaaattgccCTCCATtttgTttaat,0
+ttaacGCTACGCTgccgaAatctc,0
+"ttaacTTTTTAgttaaggagagcgaaaTAATATcaaaGtagca					",1
+ttaagTCTAGATAtttgtGggaga,0
+ttaagTGAAGTTaaacgaaggctgccagcTGTCACAggaacGatggc,0
+ttacaCAAAAGgcggtactattttcaTCAGATAAacaaAttcat,0
+ttacaTGAAATAagaacacagttggttGAGCAAAaagcaAcctgc,0
+ttaccGATAAACTtttacGatttg,0
+ttaccTGAACCAtcacatcctacaaTGGCAATaacacGcactg,0
+ttacgCTAATGccggtggtcttgctGACGGCAActtccGcaccg,0
+ttactGGAAATTtgggtaatacgttgttGGACCGAcccgGtctgg,0
+ttagaGTGGAAAgttggcgacgaaCCCTACtatccAgttaa,0
+"ttagaTTGTCAatatcagaatcaTGgTAAATTgatgttGggaat					",1
+ttagcTGAACAAtctggttatagcgtgcGGACTGAccgttAaattt,0
+ttaggGGAAATAgctgccgattttgcgcaAGACAAAaaaaGcgatt,0
+"ttataTTCCTTatttttgccgtcaggaaTACACAaggcGtatta					",1
+ttatcCGCACTTcaggtcaaaaagtcctGGTCATAgcacctGcccgt,0
+ttatcGCCACGCTgtgctAagcgt,0
+ttatcGCCAGGCTttaggAggtta,0
+ttatcGCTATGCAaaccAtaaga,0
+ttatcTGCAATAacgcggtcaaaaaagtggtTCTCAAAgtcaccAtcgaa,0
+"ttatcTTCACCggacgcagacttgtcTATGATgtcgcGtcata					",1
+"ttatcTTCATTcgtgctgtggactgcaggcttTAATGAtaagAtttgt					",1
+ttatgCTAAAGtagccactctgtaaGCTGACAAcactcAatatg,0
+ttatgGAAACGTtgatacgcaataaTGGCAAAgtggtcAgcaaa,0
+ttatgGAACCTTtaaaacatataaacAATCAGTggatgGtttag,0
+ttatgGTTGAGGgcgttttgctatgaaCGCCATcaccAttttc,0
+ttatgTAAAATCaatttatgtaaaaAGTCACAtcattGtagtt,0
+"ttatgTTAGTAccaacagatttaccacattTATCATcttaAcagtt					",1
+ttattACCAGACTaacatAcctgt,0
+"ttattTTCATAttacggctccagagttgttatCACACTatcaCccacc					",1
+ttattTTGACGatctgcctgaaggtGAAGATTTataagGagttg,0
+"ttattTTTACTtaattttgaattaagTAAATTtaatttGttcaa					",1
+"ttattTTTACTtaattttgaattaagtaaattTAATTTgttcaAaagct					",1
+ttcaaCTGACGgatttcagatgatctCCTGATTAacccgGagcgg,0
+ttcaaTGAAATAtttctgcctgtatAATCTTTaaagAtgttg,0
+"ttcaaTTAAAAacttcatggtagtcgcattTATAACcctatGaaaat					",1
+ttcacTTTGATAcaaggagagtgctAACCATcagaAttatc,0
+ttcagCGCACCTaaacgatagtaaagTAACAATatatttTactag,0
+ttcagGAAAATCcttaaaaatgtgaccgattGGTCAGAcgctGcagaa,0
+"ttcagTTATTAgcaacatttaacatttaTAAATTaacaTctggc					",1
+ttccaTGCACTAtcacggcagtaatgcAGGCAATggcgGcacgg,0
+"ttccaTTAAAAatcaacatattacaaaaTATCATcaactAttgat					",1
+ttcccGTTATACTgccaGcgtaa,0
+ttcccTCCAGAATgccaGcagga,0
+ttcccTGAAAAAattcgttgtcaggataaGGACAATcaataAaggac,0
+ttcccTGAAATAatatattcatcaaacgaaTGACATTgtttgAattca,0
+"ttccgTTCCAAttagacataagattattgTAATTTtttaaAtatta					",1
+"ttccgTTGTTTtgtcaatgcgacgaaaGAGAATcctgcGagttt					",1
+ttcctGCAACTCgaattatttagagtaTATCCATttattAtcttt,0
+ttcctTGAACGAatatttactgccaTTTCATTcacgTctatt,0
+"ttcgcCTGAATttcgcagtgaagccctGAAGCTtgctgAacgca					",1
+ttcgcGCCACATTgtagcAtcgcg,0
+ttcggCAACCTTtacccttgaatttcaatAATCAGAgtcagAtatga,0
+ttcggCCTGATAatgattaacttCCACAGgtttttGctaac,0
+"ttcgtCTCAAAtttagatgttggataggTATTATataatGgcatt					",1
+ttcgtGTTACACTtccccAgcaaa,0
+ttctaTAAACCTgttacatacatcgacctGGTCAAAattaTccttt,0
+ttctcGATATCTTattgAtttgc,0
+ttctcTGGCACggtgttcTGCCTgacgtAgaacc,0
+ttctgATTAAGaaaaagaaaatatcaGACGATAAgacaaAatatc,0
+ttctgCTGGCGAgtttatcgctggtgACACATgctgcGttgtg,0
+ttctgGATAAAATttgtAtcgca,0
+ttctgGCTACACTttctGcaaac,0
+ttctgTATACCTTtataCctgtt,0
+ttcttTGATCTTtaaaaagatctaagtTGTCATTttccAccctt,0
+"ttcttTTACCAggggcgattatttcgtcaaCATGATgaatttAcatgc					",1
+"ttcttTTTATTttgaaagcgtcaagttTATACTcatcaAtaata					",1
+"ttcttTTTCCAtcttttcttcctgaggTAATTTttcaGcataa					",1
+ttgaaGGCACTAtaacacgatgctagtattTGGCAATcaagAcgttt,0
+ttgacACTAGAATtgcaGcaata,0
+ttgacTGGCACattcggcTGCCTcaactAggctg,0
+ttgacTTTGAAAcctctattacgtcaACCCTTccgcActcgg,0
+"ttgatTTACTGgctgatcgtctgaaatttTACGCTtaacAcacgt					",1
+"ttgatTTTAATggtgccgataataggagtcGAACCTacgaCcttcg					",1
+ttgcaTTAACTTatttataacttatatTGTCACAtgcaaAtcaga,0
+"ttgcaTTGCCAatccggttgtccgtctcTACGCTattgAtattg					",1
+"ttgcaTTTAATaaaactaacaatattttTAAGCAaaactAaaaac					",1
+ttgccCCTGAAAagggtgcgtgagtatACCCTTtttctCttttt,0
+ttgccCGAACTCataaaaattaacaaaattTGTCGTTccgccAtcggc,0
+ttgccCTTTCAAatcaataagcggtATCCACagacaAacctg,0
+ttgccCTTTCAAatcaataagcggtatCCACAGacaaAcctga,0
+ttgccGGAACCGgtactgacttacatTAACCAAcaagGcttgt,0
+ttgccTAAAATCcatcaggagataaaaaAATCTGAcacaaGataag,0
+ttgccTGGCGTctgggcgTGCATtgatccTgactt,0
+ttgcgGCTACGTAtacatcGccatt,0
+ttgcgTGCACTAcactgtcaatcagacaaaTGACTATatgggGcaacc,0
+"ttgctTTGGCAaattgcctatgccgaacttTACTTTacagAtgttc					",1
+"ttgctTTTCAGttattagcaacatttaacattTATAAAttaacAtctgg					",1
+ttggaCTTTAAAgtggcgtgcgacctcCGCCTTtgatttGacgga,0
+ttggaTGAACCCgctgccagccttgatGCTCACAgtgaAcagcg,0
+ttggcGTGGAAAcacaggggaaatatACCCAGggtatGacggt,0
+ttggcTGCACTAcgcccgcgccatacaaactGGGCTGAcaccGtacag,0
+ttgggCTTGAGAccacatggggtcggcgCCCCGAattttAaaggg,0
+ttgtaGAAACTTagcgaacagcccagcaaAGTCACAaaaattGttaac,0
+"ttgtcATGGTCaatcatcctgttagcaaTATGCTttaaGtttac					",1
+"ttgtgCTGATGgctgggttcgggattgTAATGTcaatccAcaccc					",1
+"ttgtgTTGAATatattttgcgcggaagTATTCAtctaAcgggg					",1
+"ttgttATGCCTtatccggttgtttgttggattGATATTtaccAtgtca					",1
+ttgttATTACACTgttacGgtttc,0
+ttgttGCTGTTTTtatccGcactt,0
+ttgttTCCAGACTaattcTttcgg,0
+"ttgttTTGAATtatatatcacgtcttaTAACAAagtaAtgtac					",1
+"ttgttTTGAATtatatatcacgtcttataaCAAAGTaatgtAccggt					",1
+"ttgttTTGATAatcgctggcagaagcaTAAACAgaactAtgccg					",1
+tttaaCTTACATTtaacaAtgtta,0
+tttaaCTTTAAGgaaacacaagcaCGCCGCgcaactAttacg,0
+tttaaGCTAAGTAaaggGctttt,0
+tttaaTCTAAATAatgcccGtcaag,0
+tttacCCCAAACTcgccaAagagt,0
+tttacGCCACGTTacggAcactt,0
+tttacGCGAGCCTaatcaAttaac,0
+tttacGGAACTCgtctgcgggtgaagtaaATTCTGAatcctcAaattc,0
+"tttagCTCACTctttcaacgagcaattgtaTATTGTtatgtAagcaa					",1
+tttagTAAACTActttgtatgctgtcTGTCTTTcaaaccGacgca,0
+tttagTAAACTActttgtatgctgtctgtcTTTCAAAccgacGcagct,0
+tttatGCTAACCAgtcattGccgtt,0
+tttatGTAACTTaataaataatcgtcctcaAATCAAAttaaaAgtcaa,0
+"tttatTTGATAatccgctcacttttaacctGATTTTtaaaAcaaca					",1
+tttatTTTGAAAgcgtcaagtttatACTCATcaataAtaaaa,0
+tttcaCTGGAGAattaataaatcctCGCTACaatagActgaa,0
+tttcaGAAAATAtttatcctgcatcggtgAGTCAGAgtaagAtcaga,0
+tttcaTAAACAAaatgcaacagctaaAGGCTAAaactAtcagc,0
+"tttcaTTAATTtaagttggctaaatgcagtTAAAATttttaAcggcc					",1
+"tttcaTTGATTtttcatcccgaaaaaggTACGTTttcgCcttaa					",1
+"tttcaTTTATGcctcaggtttttgaatccgtTAAAGAagaatAtttca					",1
+tttccCTTGAGGgatgttattagacCGCTATactggGcagac,0
+"tttccTTACGAactgtttctgtgatgaataTATTCTcactgAacacc					",1
+"tttcgATGAATtgagaatagcaacgaTAATCTgataaAagaac					",1
+tttcgCCGACATTcgcaAcatta,0
+tttctTGAACGAcaaaaacgccgctcagtaGATCCTTgcggAtcggc,0
+"tttctTTTCCAttgcctcactcctgccgtGAAATTcattGttttg					",1
+tttgaGTTTAATatggcagaacttcttCGCCACcgctgGgggcg,0
+tttgaTGAAATAtgggtaaatagtggcacTGACATTatcaaAagagg,0
+tttgaTGAACAAcccgctaataacacAATCAAAaaggcAaacca,0
+"tttgaTTCCCCtggcgttaaaaggcgtgagtTATAAAccgcttAccgct					",1
+tttgcCGCAATTgctacctttttagcaAATCCGAggcaCctaat,0
+"tttggATGAAAgattatcatttgtcaTACAAAtgaggGgtggt					",1
+tttggCTTTAAGcggcgtagaggcttgCACCGTgaaatGctgcg,0
+tttggTGAACGAtcaacaaagggccacTAGCACAcctgAttcct,0
+"tttgtATGATTcagtatgttcttgcatcgcTATTCAcaaggAagcaa					",1
+tttgtCTGTAATatccatttgtatgACCTATgcctcCttcac,0
+tttgtTCTACAATaccatAtgacg,0
+"tttgtTTGTTAttatttaagtgaggtaTATAATtagaGtccgt					",1
+ttttaGCTAAGATgaaacAgagaa,0
+ttttaTCCGCACTtcagGtcaaa,0
+"ttttaTTGCTTatacatgatcaaatacttctTACATAattaaGgagaa					",1
+ttttcCCTATACAagtcGcttaa,0
+ttttcGCTATACTtttcaGtgaaa,0
+ttttcTGGCATagttggacatcTGCCAatattGctcgc,0
+ttttcTTTTAAAtgatagatatagagtaCCACATcgcgGctttc,0
+ttttgAATACATTgaaaAccgcc,0
+ttttgCTGGTAAacgacattttctcttCGCCCTcacgaAtgact,0
+ttttgGATAGAATataatcGatgaa,0
+tttttCCTAAAATtgaatGgcaga,0
+tttttGAAACCAgtcatcaaatattaccgTTTCACAacactAatttc,0
+tttttGATACTTTagagtGtttcc,0
+tttttGCCAGACTgaagaGgtcat,0
+tttttGCCAGCCTattactGataag,0
+tttttTGAACGAtatatttttacaaaataAGACAAAtcaatGacatg,0
+tttttTGGCGTaagcgtaagaTGCTTcatctGgttta,0
